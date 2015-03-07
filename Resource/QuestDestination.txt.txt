@@ -1,0 +1,135 @@
+QUEST_DESTINATION_ID_0000	
+QUEST_DESTINATION_ID_0001	Chercher dans les zones d'habitation d'Ishtar.
+QUEST_DESTINATION_ID_0002	Obtenir de pierres brillantes en chassant les aibatts. 
+QUEST_DESTINATION_ID_0003	Chercher au temple d'Ivillis au sud de Saintmorning.
+QUEST_DESTINATION_ID_0004	Chasser les météonykers et les météonykers rouges à Volcane.
+QUEST_DESTINATION_ID_0005	Livrer-le à l'[Instructrice des Magiciens] Lopaze.
+QUEST_DESTINATION_ID_0006	Livrer-le à l'[Instructrice des Acrobates] Tailer.
+QUEST_DESTINATION_ID_0007	Tuer Ren au temple d'Ivillis au sud de Saintmorning.
+QUEST_DESTINATION_ID_0008	Tuer Sisif et trouver la Pierre des Héros.
+QUEST_DESTINATION_ID_0009	Vaincre Venel et ramener son cœur.
+QUEST_DESTINATION_ID_0010	Vaincre Rubo et récupérez la lettre de Hynan.
+QUEST_DESTINATION_ID_0011	Vaincre les pranksters récupérer l'histoire des héros.
+QUEST_DESTINATION_ID_0012	Vaincre psyclope X qui vit à Volcane.
+QUEST_DESTINATION_ID_0013	Enquêter au Temple d'Ivillis au sud de Saintmorning.
+QUEST_DESTINATION_ID_0014	Vaincre Seido et trouver le livre des techniques.
+QUEST_DESTINATION_ID_0015	Apporter la boucle d'oreille de Heren à Ata.
+QUEST_DESTINATION_ID_0016	Vaincre Scorpic et récupérer la larme du sorcier.
+QUEST_DESTINATION_ID_0017	Vaincre Kidler et retrouver le Heaume de Billein.
+QUEST_DESTINATION_ID_0018	Rencontrez Kurmin.
+QUEST_DESTINATION_ID_0019	Vaincre Cicipue et récupérer la pierre des héros.
+QUEST_DESTINATION_ID_0020	Retrouver le document du Hall.
+QUEST_DESTINATION_ID_0021	Vaincre les steamwalkers et récupérer les Cieux de Madrigal.
+QUEST_DESTINATION_ID_0022	Apporter les documents du hall à Segho.
+QUEST_DESTINATION_ID_0023	Vaincre Ren et récupérer le sceau d'Aenn.
+QUEST_DESTINATION_ID_0024	Apporter le sceau d'Aenn à Tesar.
+QUEST_DESTINATION_ID_0025	Vaincre hunter X et récupérer la larme d'Aenn.
+QUEST_DESTINATION_ID_0026	Vaincre Kynsy et récupèrer la tunique d'Offerep.
+QUEST_DESTINATION_ID_0027	Apporter la tunique d'Offerep à Ryupang.
+QUEST_DESTINATION_ID_0028	Apporter la plume de Lillip à Parine à Saint city.
+QUEST_DESTINATION_ID_0029	Trouver la fosse aux esprits à Harmonin.
+QUEST_DESTINATION_ID_0030	Apporter ça au maire de Darkon.
+QUEST_DESTINATION_ID_0031	Traquer les voleurs des montagnes de Leren.
+QUEST_DESTINATION_ID_0032	Vaincre les organigors.
+QUEST_DESTINATION_ID_0033	Vaincre les gangards.
+QUEST_DESTINATION_ID_0034	Vaincre les hadeseors.
+QUEST_DESTINATION_ID_0035	Vaincre les Mia et obtenir.
+QUEST_DESTINATION_ID_0036	Meet the mayor of the saintcity.
+QUEST_DESTINATION_ID_0037	Vaincre le chef des voleurs.
+QUEST_DESTINATION_ID_0038	Vaincre les voleurs et récupérer le symbole des big bang.
+QUEST_DESTINATION_ID_0039	Vaincre Lord Bang Nayonah et récupérer le collier de Lord Bang.
+QUEST_DESTINATION_ID_0040	Apporter ça au collectionneur mystérieux à la station de vol de Saint City.
+QUEST_DESTINATION_ID_0041	Former un groupe de 3 personnes et parler à Helena.
+QUEST_DESTINATION_ID_0042	Vaincre les jeunes mantis et récupérez un œuf de jeune mantis.
+QUEST_DESTINATION_ID_0043	Apporter ça à Dr. Estern.
+QUEST_DESTINATION_ID_0044	Apporter ça à Dr. Estly.
+QUEST_DESTINATION_ID_0045	Donner-le au maire de Darkon.
+QUEST_DESTINATION_ID_0046	On peut en trouver à Flarine, Saintmorning et Darkon.
+QUEST_DESTINATION_ID_0047	On les trouve sur l'Ile corail. Il faudra acheter un ticket à la boutique.
+QUEST_DESTINATION_ID_0048	On les trouve à Azria. Il faudra acheter un ticket à la boutique.
+QUEST_DESTINATION_ID_0049	On les trouve au 1er étage de la tour oubliée. Parler au gardien de la tour oubliée à Flarine.
+QUEST_DESTINATION_ID_0050	On les trouve au 2ème étage de la tour oubliée. Parler au gardien de la tour oubliée à Flarine.
+QUEST_DESTINATION_ID_0051	On les trouve au 3eme étage de la tour oubliée. Parler au gardien de la tour oubliée à Flarine.
+QUEST_DESTINATION_ID_0052	On les trouve au 4ème étage de la tour oubliée. Parler au gardien de la tour oubliée à Flarine.
+QUEST_DESTINATION_ID_0053	On les trouve au 5ème étage de la tour oubliée. Parler au gardien de la tour oubliée à Flarine.
+QUEST_DESTINATION_ID_0054	One en trouve dans les zones de collecte.
+QUEST_DESTINATION_ID_0055	Apporter ça à Hachal.
+QUEST_DESTINATION_ID_0056	Apoprter ça à l'[Historien] Gothante.
+QUEST_DESTINATION_ID_0057	Apporter ça à la [conservatrice] Rovanett.
+QUEST_DESTINATION_ID_0058	Apporter ça à l'[Historienne] Martinyc.
+QUEST_DESTINATION_ID_0059	Apporter ça à l'[Instructrice des Mercenaires] Hyuit.
+QUEST_DESTINATION_ID_0060	Apporter ça à l'[Archimage] Laola.
+QUEST_DESTINATION_ID_0061	Tuer les jeunes Mushpang.
+QUEST_DESTINATION_ID_0062	Apporter ça à l'[Instructrice des Acolytes] Kidmen.
+QUEST_DESTINATION_ID_0063	Apporter ça à Hachal à Flarine
+QUEST_DESTINATION_ID_0064	Apporter ça à Hachal à Darkon
+QUEST_DESTINATION_ID_0065	Trouver la fosse aux esprits perdus à Harmonin.
+QUEST_DESTINATION_ID_0066	Récupérez le courrier de Rankashu à la mine de Dekanes
+QUEST_DESTINATION_ID_0067	Drian est dans la première salle.
+QUEST_DESTINATION_ID_0068	Chasser les Keakoons et collecter les 3 fragments de la clé.
+QUEST_DESTINATION_ID_0069	Vérifier où Nevil est enfermé.
+QUEST_DESTINATION_ID_0070	Tuer des Keakoons d'élite dans la 3ème salle.
+QUEST_DESTINATION_ID_0071	Parler à Nevil, le père de Drian, pour s'assurer qu'il va bien.
+QUEST_DESTINATION_ID_0072	Brisez des œufs de tyroglyphes et récupérez 15 fluides de tyroglyphes roses
+QUEST_DESTINATION_ID_0073	Brisez des œufs de tyroglyphes et récupérez 15 fluides de tyroglyphes bleus
+QUEST_DESTINATION_ID_0074	Brisez des œufs de tyroglyphes et récupérez 15 fluides de reines tyroglyphes roses
+QUEST_DESTINATION_ID_0075	Brisez des œufs de tyroglyphes et récupérez 15 fluides de reines tyroglyphes bleus
+QUEST_DESTINATION_ID_0076	Ramasser 30 Cillins dans la mine.
+QUEST_DESTINATION_ID_0077	Parler à Kazen.
+QUEST_DESTINATION_ID_0078	Tuer des trillipys verdâtres et récupérer 30 ribenuums 
+QUEST_DESTINATION_ID_0079	Demander à Nein de purifier 10 ribenuums. Il habite à Désolation à Darkon 3
+QUEST_DESTINATION_ID_0080	Parler à Cell à Darkon 1.
+QUEST_DESTINATION_ID_0081	Apporter le ribenuum à Nein.
+QUEST_DESTINATION_ID_0082	Vous trouverez des feferns mutants et des nyangnyang mutants dans les environs.
+QUEST_DESTINATION_ID_0083	Tuer un Wormveduque au fond de la mine de Mas.
+QUEST_DESTINATION_ID_0084	Vous trouverez des indices dans la dernière salle à gauche.
+QUEST_DESTINATION_ID_0085	Tuer 8 Ivillis Crashers.
+QUEST_DESTINATION_ID_0086	Tuer 4 Ivillis Guarders.
+QUEST_DESTINATION_ID_0087	Tuer 4 Ivillis Guarders et obtenir 4 symboles d'Ivillis Guarder.
+QUEST_DESTINATION_ID_0088	Tuer des Météonykers à Volcane et récupérer 70 dents de dragons.
+QUEST_DESTINATION_ID_0089	Tuer des Psyclopes X à Volcane et récupérer 80 yaux étranges.
+QUEST_DESTINATION_ID_0090	La légende dit qu'on les trouve à Volcane.
+QUEST_DESTINATION_ID_0091	Acheter une épée au PNJ Luda.
+QUEST_DESTINATION_ID_0092	Tuer des Météonykers à Volcane et récupérer 100 dents de dragons.
+QUEST_DESTINATION_ID_0093	Parler à Drian.
+QUEST_DESTINATION_ID_0094	Il y a des gangard dans les environs.
+QUEST_DESTINATION_ID_0095	Il y a des organigors dans les environs.
+QUEST_DESTINATION_ID_0096	Il y a des hadeseor dans les environs.
+QUEST_DESTINATION_ID_0097	C'est un coupon du débutant.
+QUEST_DESTINATION_ID_0098	On les trouve sur les monstres de niveau 15 ou plus pendant l'event.
+QUEST_DESTINATION_ID_0099	Chassez les monstres d'évènement dans tout Madrigal.
+QUEST_DESTINATION_ID_0100	Trouvez un caillou du désert autour du Caravansérail Arhak'ine
+QUEST_DESTINATION_ID_0101	Terrassez le monstre qui se cache dans les entrailles du Sietch Kalgas et récupérez le Camée de Madriiiel
+QUEST_DESTINATION_ID_0102	Tuez Rubo et récupérez le Sceau d'Aenn
+QUEST_DESTINATION_ID_0103	Ecrabouillez 50 Dragoméro un peu partout en Madrigal
+QUEST_DESTINATION_ID_0104	Ils se trouvent au temple d'Ivillis, au Sud de Saintmorning.
+QUEST_DESTINATION_ID_0105	Vous trouverez une fleur de voyage temporel à l'entrée de Désiréa
+QUEST_DESTINATION_ID_0106	Chassez 20 gardes Keakoon près de la mine de Dekanes
+QUEST_DESTINATION_ID_0107	Chassez les Chaner. Ils se trouvent autour de Madrun
+QUEST_DESTINATION_ID_0108	Vous pouvez trouver le bandeau en perles près de l'entrée du village Pumpkin
+QUEST_DESTINATION_ID_0109	Une épée de Capitaine Hobo
+QUEST_DESTINATION_ID_0110	Ça se situe au Nord de Flaris près de l'autel violet
+QUEST_DESTINATION_ID_0111	Vous en trouverez sur les Capitaines Tombstone
+QUEST_DESTINATION_ID_0112	Vous en trouverez sur les Bask
+QUEST_DESTINATION_ID_0113	Vous en trouverez sur les Prankster
+QUEST_DESTINATION_ID_0114	Vous en trouverez sur les Ivillis Crasher et Ivillis Guarder
+QUEST_DESTINATION_ID_0115	Vous en trouverez sur les Steel Knight
+QUEST_DESTINATION_ID_0116	Une lame afutée trouvée sur un Capitaine Mantis
+QUEST_DESTINATION_ID_0117	Une perceuse à métaux trouvée sur les Driller
+QUEST_DESTINATION_ID_0118	Vous en trouverez sur les Steam Walker
+QUEST_DESTINATION_ID_0119	Un anneau volé par un Garbagespider
+QUEST_DESTINATION_ID_0120	Une poubelle de Capitaine Garbagespider
+QUEST_DESTINATION_ID_0121	Vous en trouverez sur les Nautrepy
+QUEST_DESTINATION_ID_0122	De la viande de Syliaca
+QUEST_DESTINATION_ID_0123	De la gelée Greemong
+QUEST_DESTINATION_ID_0124	Un petale de Boo
+QUEST_DESTINATION_ID_0125	Une racine de Treant
+QUEST_DESTINATION_ID_0126	Vous pouvez trouver des cailloux près des Capitaines Kern
+QUEST_DESTINATION_ID_0127	Vous pouvez trouver des cailloux près des Capitaines Glaphan
+QUEST_DESTINATION_ID_0128	Le Bishop Popcrank pourra vous le fournir
+QUEST_DESTINATION_ID_0129	Chercher Ainher. Il étudie à la mine de Dekanes
+QUEST_DESTINATION_ID_0130	Cherehe Drico à la mine de Dekanes
+QUEST_DESTINATION_ID_0131	Une sève de ROCIQUEEN rose
+QUEST_DESTINATION_ID_0132	Une sève de ROCIQUEEN bleue
+QUEST_DESTINATION_ID_0133	Ainher étudie les minéraux à la mine de Dekanes
+QUEST_DESTINATION_ID_0134	Drico vit à la mine de Dekanes

@@ -1,0 +1,1548 @@
+#auto
+#init
+#addKey
+#yesQuest
+#noQuest
+#questBegin
+#questBeginYes
+#questBeginNo
+#questEndComplete
+Présentation
+Au revoir
+CARGO
+Discussion
+Sortie
+Contrôles en vol
+Combat en vol
+IDCARD
+Mine de Dekanes
+Téléportation
+Affronter Clockworks
+Un truc drôle
+Hmmm…
+Oui_Entrer
+Non_Quitter
+Clé
+Achaben
+Ville
+Que fais-tu
+Es-tu la fille d'un Magicien
+Qui es-tu
+Je m'en suis douté
+Quelqu'un me l'a dit
+Oui
+Non
+Et voilà
+Désolé
+Lieu de résurrection
+Initialiser les points de compétence
+Mine de Dekanes
+Cell
+Manuel de vol
+Manuel de combat en vol
+Shopping
+Vie et Mort
+Bienvenue dans le domaine des Keakoons jeune aventurier. Tu m'as l'air d'être quelqu'un de confiance… pourrais-tu me rendre un service ?
+Affaires de Nevil
+Hmmm... Comment un être humain comme toi a-t-il pu parvenir jusqu'ici ?!
+Merci de secourir mon père. Mais au fait, qu'est ce qui t'amène ici ?
+S'il te plaît, sauve mon père. Il est emprisonné à l'est du village des Keakoons.
+Hmmm... Je ne sais pas comment tu es arrivé ici, mais tu n'es pas celui dont j'ai besoin. File d'ici, cet endroit est bien trop dangereux pour toi.
+Hmmm... Je m'appelle Drian, et je suis le fils de Nevil, le Grand Chef des Keakoons.
+Hmmm....  Cet endroit est bien trop dangereux, rentre à la maison ça vaudra mieux pour toi.
+Voici les affaires que m'a confiées mon père.
+Hmmm… cela risque de prendre un moment...
+Huh… un humain ? Ici ? Tu dois être vraiment brave… ou alors complètement fou !
+Quoi ! Un humain… Tu n'es pas le bienvenu sur ces terres. Tu ferais mieux de déguerpir au plus vite.
+Hmmm... Je n'ai pas à me présenter à un être humain comme toi.
+Rentre chez toi ! Les êtres humains ne sont pas les bienvenus ici.
+...
+........
+Grrrr. Je n'avais pas vu d'être humain depuis des années. Je suis Nevil, le Grand Chef des Keakoons.
+Grrrr. Un humain ? Ça fait des lustres que je n'en avais pas vu. Grrrr… file d'ici.
+No Info.
+No Info.
+No Info.
+No Info.
+Viens auprès de moi si tu cherches l'absolution.
+Es-tu ici pour une confession?
+Ton… ton aura resplendit de mille feux. Je te souhaite qu'elle ne se ternisse plus jamais à l'avenir.
+Je suis un berger qui aide les êtres humains à expier leurs péchés et retrouver le chemin de la droiture. Viens si tu recherches l'absolution.
+Vous pouvez partir en utilisant le téléporteur au sommet des montagnes de Kebaras. Mais pour cela il vous faut une clé qui s'obtient sur l'un des monstres meurtriers.
+Bonne chance, et attention à respecter les lois à l'avenir.
+Il te sera impossible de rester en vie ici sans un bouclier.
+Hmm ? Attends tu quelque chose de moi ?
+Mon nom est Robin, et je suis venu ici pour différentes raisons… mais je n'ai pas envie d'en discuter avec toi pour l'instant.
+Bon courage.
+Tu as besoin de t'armer ? Pas de problème, je vais te donner un coup de main.
+Hahaha... Tu ressembles à tous ces criminels. Qu'est ce qui t'amènes ici ?
+Haha. Je suis Shun, et qui tu es et pourquoi tu es là ne m'intéresse pas… un client est un client. Allez achète moi ce dont tu as besoin.
+Hahaha.. ok. J'espère qu'on pourra boire un verre ensemble un de ces jours.
+Je vends de l'équipement aux aventuriers de passage.
+As-tu quelque chose à me dire ?
+Je m'appelle Yuna. J'espère que tu trouveras mes aliments et médicaments bon marché ~
+Bienvenue dans la boutique d'Achaben !
+Puis-je te renseigner ?
+Ma boutique est très réputée. Si tu cherches quelque chose, il y a toutes les chances que tu trouves ton bonheur ici.
+Mon nom est Achaben, et je suis le gérant du bazar de Darken.
+Bonne continuation ! Reviens me voir quand tu passeras dans les parages !
+#b#cff0001ffInformations de vol#nc#nb est ici dans la station d'Almani !
+Que veux-tu faire ?
+Voler à toujours été le grand rêve des êtres humains !
+Je m'appelle Almani, et je m'occupe de la station de Darken.
+Alors pour voler c'est simple:\n 1. Achète un balai ou une planche à la station.\n 2. Double clique sur ton engin de vol dans l'inventaire pour l'enfourcher.
+ 3. Ensuite appuie sur la barre d'espace pour décoller.
+ 4. Utilise alors les touches Z, Q, S, D ou maintiens enfoncé le bouton droit de la souris pour contrôler ton vol.
+ 5. Double clique sur le bouton droit de la souris pour changer de direction sans maintenir le bouton enfoncé.
+ 6. Accélère ou réduis ta vitesse en appuyant de nouveau sur espace.
+J'espère que ces informations t'auront été utiles. A toi de jouer maintenant, je te souhaite bon vol !
+ Le combat en vol possède quelques particularités:\n 1. Des symboles entourent les monstres volants quand tu t'en approches.
+ 2. Les monstres volants peuvent être ciblés en utilisant la touche Tab ou un clic gauche sur la souris.
+ 3. Pour attaquer un monstre ciblé, il te suffit de t'en approcher et cliquer gauche, ou presser la touche Insert.\n4. Le monstre peut également être suivi automatiquement en pressant sur la touche W.
+ 5. Une fois morts, les monstres volants lâchent des items qui restent en suspend dans les airs.
+ 6. Pour ramasser l'item, clique dessus ou utilise le mouvement adéquat pour ramasser les items à proximité (touche F3 par défaut).
+ 7. Les Mercenaires et Acolytes peuvent attaquer une fois au corps à corps, alors que les Magiciens et Acrobates sont en mesure d'attaquer à distance.
+J'espère que tu deviendra un grand combattant du ciel.
+Au revoir. N'hésite pas à revenir me voir si tu as d'autres questions.
+Personne ne peut désirer cette place tant que je suis là !!
+Bonjour, je suis Jano. J'organise les défenses sur Harmonin. Les poisifurms volent la nourriture et le bétail. Pourriez-vous nous en débarrasser ?
+Cet endroit est très dangereux ! Mais tu n'as pas à t'inquiéter tant que je suis ici. Ha ha ha ha ~
+Je m'appelle Amadolka Liviehindekinas et suis en charge de la sécurité de cette Usine d'Erons.
+Ne t'inquiète pas et profite de ton aventure. Je monte la garde ici…
+Je suis vraiment un lâche...
+Ne me parle pas, sinon… tu seras maudit !
+Pourquoi cherches tu les noms de ceux qui ont été libéré de leur malédiction par le passé ?
+Oui… c'est pour ton bien.
+Carte d'accès
+Bonjour ! Comment ça va ?
+Hmm ? Tu as une question pour moi ? Je ne sais pas grand chose tu sais...
+Pourquoi t'inquiètes-tu pour moi ? Je t'en remercie mais tu n'as pas à me faire cette faveur.
+Ok… bien que je ne sois pas sûr de te revoir de si tôt...
+Ah ! Tu parles de cette carte pour accéder à la zone des Trillipys ? Et bien si tu recherches cette carte, tu ferais mieux d'aller en parler à Andre, apparemment il passe le plus clair de son temps dans la forêt, entouré d'arbres centenaires.
+Bienvenue ! Mon nom est Bolpor, et je vend toutes sortes d'aliments.
+Alors, de quoi as-tu besoin ?
+Tu sais tu ferais mieux de faire des provisions, car tu dois te nourrir chaque jour si tu veux rester en bonne santé !
+Je m'appelle Bolpor Centaurn, et je tiens la boutique d'alimentation de Darken.
+A la prochaine !
+Toi qui cherche à succéder au grand Chevalier Billein, Héros de Madrigal... es-tu prêt à suivre la Voie des Héros ?
+Ils seront oubliés quand le monde commencera à renaître, mais ils ne disparaîtront jamais.
+Mon nom est Boneper, et je suis le Gardien de la Pierre d'âme du Chevalier Billein. J'enseigne la force du Héros à ses successeurs.
+Que l'esprit de Billein soit toujours avec toi !
+Toi qui cherche à succéder au grand Moine Roentel, Héros de Madrigal... es-tu prêt à suivre la Voie des Héros ?
+Ceux qui les suivent et ceux qui les respectent seront finalement détruits… Choisis donc ceux qui leur sont opposés.
+Mon nom est Capafe, et je suis le Gardien de la Pierre d'âme du Moine Roentel. J'enseigne le courage du Héros à ses successeurs.
+Que l'esprit de Roentel soit toujours avec toi !
+La Mine de Dekanes regorge de métaux et minerais…
+Tu es à la recherche d'aventure ? Alors pourquoi ne pas enquêter sur le Darkon caché ?
+Pourquoi être si courtois ? Personne ne se comporte comme cela avec moi, alors arrête ! Dis moi juste ce que tu veux.
+Pars si tu le souhaites, je n'ai pas besoin de toi ! Personne ne s'intéresse à moi… et je ne me préoccupe de personne non plus…
+As-tu entendu parlé de Neverant ? Il y a longtemps, c'était la meilleure guilde de Madrigal pour la collecte de métaux et autres matériaux. En fait j'étais un membre de cette guilde à cette époque...
+Mais Neverant n'existe plus… elle a été la cible d'une puissante malédiction qui a conduit à sa perte. Quelle dommage…
+Tu n'as qu'à chercher dans les environs de Darkon 1, pour trouver la dangereuse Mine de Dekanes…
+Bienvenue chez Chenbing, la meilleure boutique de boucliers de Madrigal !
+Que veux tu ?
+Nous ne sommes que des vendeurs ambulants, mais l'Union de Khan dont nous faisons partie est réputée pour la grande qualité de ses produits.
+Mon nom est Chenbing Khan, et je vend des boucliers ici à Anicenight.
+J'espère que vous prenez plaisir à voler !
+Il est maintenant temps pour toi de retourner à Darkon…
+Que désires-tu ?
+Attention à ne pas baisser ta garde, ou tu n'y survivras pas !
+Je n'ai rien à te dire, je ne fais que défendre cet endroit.
+J'espère que tu atteindras ton but !
+Hey ! Aide moi ! S'il te plaît !
+Hey, que fais tu là-bas ? Viens plutôt m'aider !
+Moi ? Je suis Colar Devoka, le meilleur acteur de la troupe Pepole. Mais bon pour l'instant… je suis ici…
+Quoi ! Tu pars sans rien faire ?! Sors moi d'ici !! S'il te plaît !
+Lillip, tu fais vraiment preuve d'une grande sagesse...
+Quoi qu'il arrive, ne perd pas espoir !
+Mon nom est Condram Griters, et je suis la Gardienne des Elémentalistes. J'enseigne la sérénité de Lillip, Héros de Madrigal, à ses successeurs.
+Que l'esprit de Lillip soit toujours avec toi !
+Heren, ton voeux est enfin devenu réalité.
+Les 8 guérriers ce léverons à nouveaux pour chasser les ténévres de ce monde !
+Mon nom est Corel Anduril, et je suis le Maître des Assassins. Auparavant j'étais connu comme le plus grand expert de la Danse des lames…
+Prie Heren, Héros des Assassins, pour obtenir sa protection.
+Offerep, Héros des Sorciers, je suis heureux d'honorer ton esprit.
+Il sera illustre, extraordinaire… leur dernier combat sera pour l'éternité.
+Je m'appelle Cylor Mesmor, et je suis le Maître des Sorciers. J'avoue avoir commis de nombreux crimes par le passé, mais j'ai expié tous mes péchés…
+J'espère que tu obtiendra la force psychique des Sorciers.
+L'écosystème en Madrigal a toujours été un mystère, mais notre vieux continent est vraiment magnifique.
+Les machines ayant servi à la construction des Usines d'Erons sont devenue des monstres, hantant ces lieux pour l'éternité.
+Je m'appelle Dr.Est. J'étudie l'écosystème de Madrigal avec l'aide de mes deux frères.
+Fais attention, les monstres ici sont vraiment redoutables !
+Oh Ranger... Que la volonté de Hynan te guide.
+Voilà ce que tu as à faire…
+Il renaîtront en Héros…
+Je suis le Maître des Rangers, et je guide aussi les aventuriers sur la Voie des Héros.
+Que l'esprit de Hynan soit toujours avec toi !
+Aenn, Héros des Prêtres, ta bénédiction sur ce monde sera saluée à jamais.
+Quand le monde sera proche du chaos, des Héros apparaîtront pour sauver Madrigal.
+Bonjour, je m'appelle Ellend Eledyo, et je suis le Maître des Prêtres.
+Prie Aenn, Héros des Prêtres, pour obtenir sa bénédiction.
+Le monstre sommeille ici, attendant que vous lui lanciez un défi.
+Que voulez-vous faire ?\n1.[Affronter Clockworks][]. \n2.[Un truc drôle][]. \n3.[Hmmm...][].
+Vous avez échoué… souhaitez-vous relever le défi à nouveau ?\n[Oui][Oui_Entrer] / [Non][Non_Quitter]
+Vous avez réussi le défi, félicitations !!
+Etes-vous prêt pour le défi ?\n[Oui][Oui_Entrer] / [Non][Non_Quitter]
+Jeune sot ! Ce n'est pas un lieu de divertissement ici ! Tu ferais mieux de reprendre tes esprits…
+.................
+Il semble que d'autres joueurs soient entrain de relever le défi. Tu ne peux entrer pour l'instant.
+Il te faudra être bien préparé, sinon tu ne pourras vaincre le monstre.
+Tu abandonnes ?
+Roentel, transmet leur ton courage.
+N'oublie pas ceux qui se sont sacrifiés pour protéger Madrigal.
+Mon nom est Condram Griters et j'enseigne la clairvoyance du Moine Roentel, Héros de Madrigal, à ses successeurs.
+Que l'esprit de Roentel soit toujours avec toi !
+La chasse est ouverte !
+As-tu goûté notre Bojolais ? C'est le nectar de Madrigal, tout simplement exquis !
+Je suis l'oenologue Furan, responsable de l'Association des Vins de Madrigal.
+Le nectar de Madrigal est une boisson mystérieuse, qu'on dit être le sang de Dieu !
+#b#cff0000ffTout pour les Guerres de Guildes !!#nc#nb
+Assure toi d'être bien équipé avant d'entrer dans la Guerre des Guildes.
+Je vend de l'équipement pour la Guerre des Guildes.
+Fais moi signe si tu as des nouvelles ~
+Hmmm… y'a-t-il quelqu'un qui puisse m'aider… ?!
+Il y a tant de secrets cachés en Madrigal…
+Je m'appelle Hachal Gedvas. Je suis un érudit mais j'ai été exclu de l'Association des Historiens de Madrigal.
+J'espère que ton voyage se passe bien. Ha ha ha.
+Ma boutique est remplie d'objets magique et autres items merveilleux.
+Key_Scenario5
+Je peux t'aider ? Il semble que tu es une question à me poser. Que veux tu savoir ?\n[Que fais-tu][]? \n[Es-tu la fille d'un Magicien][]? \n[Qui es-tu][]?
+Ici on peut trouver tout ce qui est possible et imaginable. Quel item magique recherches-tu ?
+Bonjour. Bienvenue dans la boutique de magie de Darkon ! Je suis sûr que mon magasin propose ce que tu cherches.
+Je m'appelle Haven Bgeoner, ma boutique propose de nombreux items magiques qui te seront sûrement utiles.
+Pour être honnête… j'aime [Achaben][] ! Mais je ne crois pas qu'il veuille de moi, car je suis plus âgée que lui… snifff.
+Enfin… je suis si contente de pouvoir le voir chaque jour. Malheureusement, il est tombé malade depuis quelques jours, et je dois donc veiller sur lui.
+Il possède une grande force mentale… même s'il n'est pas fort physiquement. Je pense que tu seras d'accord avec moi quand tu le rencontreras.
+Je te raconte cela car je l'aime énormément. Enfin… tu comprendras quand tu le rencontreras.
+Les items magiques sont très recherchés à Darkon, c'est pour cela que j'ai ouvert cette boutique.
+J'essaie de communiquer ma joie et bonne humeur autour de moi... car Darkon est si sombre et triste…
+Si tu souhaites traverser ce pays en sécurité, tu ferais mieux de faire des provisions dans ma boutique.
+Au revoir. J'espère te revoir très bientôt.
+Je possède un petit magasin d'items magiques. Il n'y a pas grand-chose à en dire en fait.
+Oh ? Oui, tu as raison, mais comment le sais-tu ?\n [Je m'en suis douté][].\n [Quelqu'un me l'a dit][].
+???\nJe suis Haven, propriétaire de cette boutique magique. Ne te l'ai-je pas déjà dit ?
+Vraiment ? Je suppose que c'était évident… Je possède un magasin d'items magique après tout.
+Quelqu'un ?? Erf les triplés te l'ont dit je parie !! Grrr ils devraient vraiment apprendre à fermer leur clapet ceux là…
+Si tu as rencontré les trois frères, je suppose qu'ils t'ont demandé de leur rendre un service… J'ai raison non ?\n [Oui][].\n [Non][].
+Traduire les langues anciennes ? Mon père avait un don certain pour cela, mais je ne suis pas sûr de pouvoir en faire autant. Montre moi ce que tu as, je vais essayer.\n[Et voilà][]!\n[Désolé][]...
+Vraiment ? Ils t'ont envoyé ici sans avoir de faveur à me demander ? Hmmm… je pense que tu me caches quelque chose. Reviens me voir si tu as besoin d'aide.
+La dernière partie de ce livre… Laisse moi regarder. Al Areca… hmm… attend… ah j'ai compris !
+Al Areca De Rebuish Eqaudorer… cette première partie signifie: <N'essaie pas de me trouver… n'essaie pas de me connaître… mais...>
+De Rebuish La Pador Eshlopeiya Raradoru… cette seconde partie veut dire <…si tu veux réellement percer mes secrets… vient dans ma prison. Ouvre le scellé magique et la porte s'ouvrira.>
+La dernière partie est: Sorarador De Riapedo Le Panendisi Ronrondosi Purekerakapo De Rasip miaru Warnuaus.
+Ce qui veut dire <Si tu m'aperçois après à ouvert la porte… tu ferais mieux d'effacer mon visage de ton esprit... sinon... je disparaîtrai.> Voilà tout ce que je peux comprendre.
+Cette langue n'est pas facile à traduire. Je suis vraiment désolé mais je ne peux faire plus pour l'instant. Ah ! Tu as dit qu'il s'agissait d'un code, mais en fait ces phrases forment un sortilège.
+Ok. Laisse moi essayer à nouveau. Je me demande ce qui va se passer...\nAl Areca De Rebuish Eqaudoreure De Rebuish La Pador Eshlopeiya Raradoru Soraradoru De Riapedo Le Panendish Ronrondosi Purekerakapo De Rasip Ru miaru.. Warnuaus!!!
+Haaaaaaaa! C'était un sortilège pour créer un charme magique permettant de briser le sceau de la prison. Prend le avec toi, maintenant tout est entre tes mains.
+Maintenant il ne te reste plus qu'à trouver la prison. Je te conseille d'amener avec toi le maximum de compagnons que tu peux trouver... Fais attention !
+Qu'est ce que c'est ? Un livre magique appartenant à Mule ? Tout sur les bâtons ??
+Il semble que tu n'avais pas l'intention de me montrer ce livre. Tu ne me fais vraiment pas confiance. Reviens me voir plus tard dans ce cas…
+Aenn, la larme que tu laissas échapper apporta la paix sur ce monde.
+Leur sacrifice aura permis de sauver le monde.
+Je m'appelle Heedan Joe, et je délivre la bénédiction du Prêtre Aenn, Héros de Madrigal, à ses successeurs.
+Aenn te bénira où que tu sois, quoi que tu fasses.
+Toi qui cherche à succéder au grand Jester Kerenen, Héros de Madrigal... es-tu prêt à suivre la Voie des Héros ?
+Tu es maintenant responsable de tes actes. Que je te vienne en aide ou non dépendra également de toi.
+Certaines personnes les admirent. D'autres les critiquent. Mais quoi qu'ils en disent, les Héros ont sauvé la vie de tous ces gens.
+Mon nom est Heingard, et je suis le Gardien de la Pierre d'âme du Jester Kerenen. J'enseigne la dextérité du Héros à ses successeurs.
+Que la dextérité de Kerenen soit toujours avec toi !
+Messieurs ! De l'ambition ! Si vous désirez vraiment quelque chose, vous l'obtiendrez !
+Ceci est ton devoir.
+Observe la nouvelle technique d'archer !
+Je suis l'instructeur des Acrobates, j'enseigne aux Vagabonds la maîtrise de l'arc et du yo-yo.
+A bientôt !!
+Kerenen, Héros des Jesters, je souhaite que ta dextérité nous guide.
+Il y a quelque chose que tu dois faire.
+Le ciel s'assombrit et la terre trembla quand les Héros débutèrent leur dernière bataille.
+J'honore le Héros des Jesters. Je suis en charge de transmettre la dextérité de Kerenen à ses successeurs.
+Que la dextérité de Kerenen soit toujours avec toi !
+Lillip, Héros des Elémentaliste, transmet ta sagesse à ce monde !
+Huit étoiles furent rassemblées au même endroit, et devinrent une lors de la confrontation finale…
+Je suis Horizon Keloan, le Maître des Elémentalistes. Je descend directement de la lignée du premier Elémentaliste.
+J'espère que vous franchirez tous les obstacles grâce à la sérénité de Lillip.
+Ô Heren, dispense ton énergie sur le monde !
+Les larmes tomberont du ciel quand le Héros se réveillera.
+Mon nom est Jeperdy, et je suis le Gardien de la Pierre d'âme de l'Assassin Heren. J'inculque l'énergie du Héros à ses successeurs.
+Que l'esprit de Heren soit toujours avec toi !
+Bienvenue dans notre restaurant. Nous avons la meilleure table des environs !
+Nous sommes des vendeurs ambulants, mais l'Union de Khan dont nous sommes membres est réputée dans tout Madrigal pour la grande qualité de ses mets.
+Mon nom est Jinitte Khan, et je vend mes petits plats ici dans le village d'Anicenight.
+Bienvenue dans le magasin d'arme de Kablloc. Je propose les plus belles armes que vous pourrez trouver dans les environs.
+Je m'appelle Kablloc Khan, je suis le forgeron d'Anicenight.
+Toi qui cherche à succéder au grand Ranger Hynan, Héros de Madrigal... es-tu prêt à suivre la Voie des Héros ?
+La vie apparaît toujours là où de nouvelles graines sont plantées… La Voie des Héros ouvre les portes vers une nouvelle destinée.
+Mon nom est Kailreard, et je suis le Gardien de la Pierre d'âme du Ranger Hynan, Héros de Madrigal. J'enseigne l'adresse de Hynan à ses successeurs.
+Que l'esprit de Hynan soit toujours avec toi !
+Ô Billein, grand Chevalier de Madrigal ! Que ta volonté bénisse le monde.
+La paix reviendra sur le monde quand les huit flammes seront éteintes…
+Je m'appelle Karandur Eope, et je suis le Maître des Chevaliers.
+L'épée de Billein te protégera.
+Je vend de magnifiques boucliers à des prix imbattables !
+Je vend les meilleurs boucliers des environs. Si tu cherches à améliorer ta défense, tu es entré dans la bonne boutique !
+Je m'appelle Krinton. J'ai suivi les enseignements de Lucky, le propriétaire de ce magasin.
+Reviens quand tu veux, mais n'espère pas avoir une ristourne ! Ha ha ~
+Hoooo, il y a tellement de jolies fleurs aujourd'hui.
+Je suis désolé mais je dois avoir au moins 200 ans de plus que toi. Tu ne devrais pas juger quelqu'un selon ses apparences…
+Je m'appelle Laola. Les gens racontent que je suis le plus grand magicien n'est-ce pas ? Mais je suis si timide…
+Attention, le danger n'est pas loin.
+J'adore partir vers de nouvelles aventures ~ L'aventure, c'est l'aventure ~
+Hey toi ! Fais ça ! … Pourquoi ? Il n'y a pas de raisons, mais fais-le ! Muwhahaha.
+Une flèche divine siffla dans le ciel et devint une pluie qui lava le monde de ses péchés…
+Nous, les Grands Dwarpets, sommes très différents des autres Dwarpets. Nous sommes de grands érudits ~ Quoi ? Les êtres humains nous sont supérieurs ?! Qui a dit ça ? Quel est le fou qui peut bien penser ça ?!
+Muwhahaha ~ Bye bye~
+Billein, Héros des Chevaliers, que ta force nous guide.
+Il sourit, et le monde lui sourit en retour…
+Je m'appelle Lobiet Lee, et je suis la Doyenne des Chevaliers. J'enseigne la force de Billein, Héros de Madrigal, à ses successeurs.
+Billein te protégera toujours.
+Erf, je me sens si fatigué… Si tu as des questions, je suis là pour te répondre.
+Choisis ce que tu veux faire.
+Bonjour,
+Je suis le plus jeune de tous les Pangs, je m'occupe de Darkon.
+Je te laisse choisir ton lieu de résurrection.
+A bientôt ~ Je veux dire après ta prochaine mort. Hé hé ~
+Je suis le plus jeune de tous les Pangs, je m'occupe de Darkon.
+L'esprit de Kerenen, Héros des Jesters, te protégera.
+Il seront victorieux… et alors… le monde sera sauvé.
+Je suis le Maître des Jesters. Mon devoir est de te guider sur la Voie des Héros.
+Que l'esprit de Kerenen soit toujours avec toi !
+Tout aventurier ayant atteint le level 51 peut accomplir ces quêtes, confiées par les commerçants et les habitants.
+Bienvenue. Voici les différentes missions proposées par les commerçant et les habitants, faites votre choix.
+Je suis désolé… mais je n'ai pas de mission à te confier pour l'instant. Reviens me voir plus tard.
+Mon nom est Lurif, je suis le responsable du bureau des quêtes de Darkon.
+Perdre la vie dans le feu du lotus rouge serait… spectaculaire !
+Hmm. As-tu quelque chose à me demander ?
+Je suis désolé… mais je ne supporte plus cette chaleur. Il faut que je me repose un moment. Repasse me voir plus tard.
+Mon nom est Nein, je suis un expert dans la purification des métaux.
+A bientôt. Fais attention à ne pas succomber à la chaleur ambiante.
+Si tu as des questions, moi Ollien suis là pour y répondre.
+Y'a-t-il quelque chose que je puisse faire ? Ho ho ho~
+Alors que veux-tu savoir ? Je ne te donnerai qu'une brève réponse, pour que tu réfléchisses par toi-même.
+Je m'appelle Ollien Hengart, je suis en charge du bureau de Darken.
+Au revoir.
+Offerep, transmet ta puissance à ce monde.
+Il perdront tout ce que qu'ils aiment, et se réveilleront…
+Mon nom est Pereb Endrile et j'enseigne la puissance du Sorcier Offerep Roentel, Héros de Madrigal, à ses successeurs.
+Que l'esprit d'Offerep soit toujours avec vous :
+Hey, venez jeter un oeil à ce que j'ai !
+Alors, que vas-tu faire pour moi ?
+Le monde est devenu si dangereux, ce n'est plus comme avant… C'est pourquoi les boucliers sont devenus nécessaires ! Pourquoi ne pas m'en acheter un ?
+En fait je suis un vendeur ambulant, je m'appelle Phacham Dudury. Actuellement je vend des boucliers ici, à l'Usine des Erons.
+Ciao ! Repasse me voir quand tu seras dans les parages !
+Te voilà désormais Acrobate, le maître des tours de passe-passe.
+Ceci est ton devoir.
+Le tout compose l'Acrobate. L'Acrobate est tout. Réfléchis à cela…
+Je suis Pyre, le Maître des Acrobates. J'aide ceux qui veulent devenir un grand Acrobate.
+Au revoir.
+Personne ne peut t'empêcher de sauter dedans… mais si tu es conscient que c'est extrêmement chaud.
+Cell
+Quoi ? Que veux-tu ?
+Je te connais… tu es déjà venu ici. Je pense que tu as les capacités pour te jouer des dangers.
+Sais-tu qu'il est dangereux de me parler ?! Que veux-tu ?
+Qu'est-ce qui pourrait bien te rendre spécial ? Ha ha, vous êtes tous pareils.
+Tu dois être fou si tu cherches à entrer dans la mine derrière moi ! Mais si tu es sûr de toi... va parler à Cell. Tu devrais le trouver à l'Usine des Erons de Darkon 1.
+.....
+Oh Cell ! Il est comme un frère. Va lui remettre ce message que je lui ai écrit.
+Cherchez vous les meilleures armes de Madrigal ? Alors venez ici, vous ne serez pas déçus !
+Allez, quelle arme désires-tu ?
+Même si je suis encore jeune, je reste le meilleur forgeron de tout Madrigal !
+Je m'appelle Remine Crowd, et je tiens le magasin d'armes de Darken.
+Reviens me voir bientôt !
+Roentel, les graines que tu as plantées dans ce monde germeront bientôt.
+Ils sont le commencement et la fin de tout…
+Je suis le Maître des Moines, Ride Ropeaedilo.
+Je te souhaite que le courage de Roentel t'accompagne.
+Toi qui cherche à succéder au grand Prêtre Aenn, Héros de Madrigal... es-tu prêt à suivre la Voie des Héros ?
+Le monde est divisé en deux: ceux qui suivent la Voie des Héros et les autres.
+Mon nom est Romvoette, et je suis le Gardien de la Pierre d'âme du Prêtre Aenn. J'enseigne le courage du Héros à ses successeurs.
+La Larme de Aenn te protégera…
+Par ici les futurs héros, j'ai ce qu'il vous faut !
+Hey, qu'en penses-tu ?
+Tu as un oeil d'expert pour évaluer les boucliers. Comme tu le vois, les miens sont de la meilleure qualité qu'il soit.
+Bienvenue dans le magasin de bouclier de Roocky, le meilleur artisan des environs !
+Au plaisir de te revoir… vivant, hahaha
+Ô Hynan… je suivrai ta volonté.
+Quand la nuit viendra, les Héros apparaîtront. Et les gens les admireront...
+J'honore le Héros des Rangers. Je suis en charge de transmettre la dextérité de Hynan à ses successeurs.
+Que l'esprit de Hynan soit toujours avec toi !
+Toi qui cherche à succéder au grand Assassin Heren, Héros de Madrigal... es-tu prêt à suivre la Voie des Héros ?
+Souviens-toi que le divertissement et la distraction est la source de la destruction du monde...
+Mon nom est Sencyrit, et je suis le Gardien de la Pierre d'âme de l'Assassin Heren. J'inculque l'énergie du Héros à ses successeurs.
+Heren te protégera toujours.
+Toi qui cherche à succéder au grand Sorcier Offerep, Héros de Madrigal... es-tu prêt à suivre la Voie des Héros ?
+Tout commencera ainsi… Et tout finira ainsi…
+Mon nom est Shyniff, et je suis le Gardien de la Pierre d'âme du Héros Offerep. J'enseigne la puissance du Héros à ses successeurs.
+L'esprit d'Offerep renforcera ton âme faible.
+Les plus belles armes sont ici, dans la boutique de Stima !
+Que puis-je faire pour toi ?
+J'en avais assez de parcourir Madrigal, alors je me suis installé ici. Ma boutique est encore petite, mais je suis sûr que je m'agrandirai d'ici quelques temps.
+Je m'appelle Stima Ogonel. Je viens d'ouvrir ce magasin d'arme ici, à l'Usine des Erons.
+Ce fut un plaisir de faire ta connaissance. J'espère bientôt te revoir !
+Es-tu prêt ?
+Ceci est ton devoir.
+Je suis fier d'être l'un des instructeurs de Madrigal.
+Mon rôle est de montrer la voie au Vagabonds.
+Bon vol !
+Venez jeter un oeil aux meilleurs élytres, mantras et conjurations de Tandy !
+Même si nous ne sommes que des marchands ambulants, nous proposons les meilleurs items de tout Madrigal. Nous autres, membres de l'Union de Khan, avons acquis cette renommée à travers tout le continent.
+L'Union de Khan était une guilde prestigieuse à l'époque, regroupant les meilleurs commerçants de Madrigal. Mais après la Guerre des Héros, leur influence déclina jusqu'à devenir une guilde de marchands ambulants.
+Actuellement nous nous sommes installés à Darkon 3, car il y a pas mal de monstres et d'aventuriers dans cette région. On va peut être même s'établir ici pour quelques temps ! Ha ha.
+N'hésite pas à revenir me voir.
+Toi qui cherche à succéder au grand Elémentaliste Lillip, Héros de Madrigal... es-tu prêt à suivre la Voie des Héros ?
+Vous verrez huit étoiles disparaître, et l'une d'entre elles sera la larme rouge qui irriguera le sol...
+Mon nom est Sencyrit, et je suis le Gardien de la Pierre d'âme du Prêtre Lillip. J'inculque la sagesse du Héros à ses successeurs.
+La sagesse de Lillip aura raison de votre ignorance.
+Bienvenue à ceux qui veulent devenir un vaillant Mercenaire. Félicitations, une aventure extraordinaire vous attend !
+Si tu as besoin de quelque chose, n'oublie pas qu'il faut d'abord le payer.
+Je suis Andy Kimu, l'instructeur des Mercenaires. Je suis là pour enseigner l'art du Mercenaire aux Vagabonds. J'avoue que ce rôle est nouveau pour moi, mais je fais de mon mieux…
+L'épée du Mercenaire te protégera.
+Hmm… Pourquoi ne pas demander aux autres Vagabonds ?
+Joyeux Noël !! J'espère que les fêtes se passent bien cette année !!
+Bonjour, je m'appelle Saint Aramy, et je suis l'un des Pères Noël de Madrigal.
+Et Joyeux Noël !!
+Hmm… il est très difficile de suivre la planète de Noier dans la galaxie Amedos… Peut-être devrais-je avoir recours à la théorie de chaos.
+Et il se réveillera… Le Héros ressuscitera à nouveau dans un lieu de souffrance et de mort, empli du bruit des machines…
+Bonjour, mon nom est Ata Millenuit et j'étudie l'astronomie auprès de Noier. Hmm… saurais-tu analyser cette fractale ?
+Désolé, je suis occupé pour le moment…(se parlant à soi-même) Donc cette fractale serait… Hmm…
+Mes frères ! Que dois-je faire ? Huh ? Noël…Noël sera… (en pleurs)
+Je te souhaite un merveilleux Noël.
+Bien le bonjour. Mon nom est Saint Atto, comme tu peux le voir, je suis l'un des Pères Noël de Madrigal.
+Joyeux Noël ! Joyeux Noël ! Ho ho ho
+Les fameuses armures créés par la famille Bobo sont en vente ici, et je m'occupe aussi de toutes vos réparations !
+Que puis-je faire pour toi ?
+Le secret de la confection des armures ? Je ne peux malheureusement te le révéler, comprends moi…
+Bienvenue, je suis Boboko Bobo. Je suis le propriétaire de cette boutique d'armure, et je m'occupe aussi de toutes les réparations d'équipement. Mon grand frère Boboku tiens le magasin d'armes à proximité.
+Seul un équipement de qualité protégera ta vie ! N'oublie jamais cela...
+Venez acheter les armes fantastiques de la famille Bobo ou faites un piercing dans votre armure pour l'améliorer !
+Et voilà.
+Je suis le fils aîné de la famille, il serait temps pour moi de me marier… Ha ha (rougissant) Pour être honnête j'aime Julia... Elle est adorable n'est-ce pas ?
+Je m'appelle Boboku Bobo, et voici ma fameuse boutique d'arme. Je peux aussi appliquer un piercing sur une armure, afin que tu puisse l'améliorer. Au fait, mon petit frère vend des armures à côté, n'hésite pas à y jeter un oeil.
+N'oubliez pas que la famille Bobo sera toujours là pour vous proposer les meilleurs équipements !
+Ne t'inquiètes pas, il y a toujours une solution.
+As-tu été sage cette année jeune aventurier ? Dans ce cas tu mérites un beau cadeau ! Ho ho ho.
+Bonjour ~ Mon nom est Saint Buruto, et je suis l'un des Pères Noël de Madrigal.
+Ho ho ho ! Joyeux Noël !
+Maman, j'ai faim !
+Je viens de m'installer ici avec mon père. Nous n'avons pas encore la citoyenneté… mais nous espérons l'obtenir très bientôt.
+Je m'appelle Chichi Horis, et voici mon père, Paul Horis.
+Au revoir ~
+Le Nouvel An est arrivé !!
+C'est bizarre, je n'arrives pas à me rappeler la chanson du Nouvel An…
+Bonne année !!!
+Vive la nouvelle année !
+Je m'appelle Monako, je fais partie du choeur de Madrigal.
+Bonne année et meilleurs voeux !!
+Erf, impossible de me rappeler de l'air de la chanson du Nouvel An…
+Santé, Bonheur et Richesse !
+Olala, je ne me souviens plus de la chanson du Nouvel An !
+Vraiment ? Peut-être penses-tu ainsi car tu es écrivain, mais je ne veux pas faire de vague avec ça…
+Les 8 âmes seront rassemblées en un lieu sacré... Le jour du jugement viendra bientôt...
+Je suis le Sage des Prêtres, Clamb Cobonet. J'étudie et médite sur la vie d'Aenn, le Héros des Prêtres.
+Quoi qu'en dise les gens, ils ont été les Héros de Madrigal. N'es-tu pas de mon avis.
+Profites bien de ton aventure ! Ha ha ha !
+Ils suivront chacun leur chemin.. Mais leurs chemins se rejoindront.
+Je suis le Sage des Sorciers, Cuarine Coexar. J'étudie et médite sur la vie d'Offerep, le Héros des Sorciers.
+La puissance du Sorcier tiens à la force de son esprit. Souviens-toi de cela !
+Tu es vraiment surprenant. Ha ha ha.
+Ils se réveilleront dans le sanctuaire… et deviendront alors de véritables Héros.
+Je suis le Sage des Elémentalistes, Cuzrill Rembright. J'étudie et médite sur la vie de Lillip, le Héros des Elémentalistes.
+Seul ceux gagnés par la sagesse pour honorer la volonté de Lillip. Je te souhaite cette vertu.
+A ceux qui cherchent à atteindre le septième ciel : venez à la station de vol de Flarine !
+S'il te plaît, rend moi service.
+Bienvenue à la station de vol de Flarine, que puis-je faire pour toi ?
+Je m'appelle Dior Cristin. Ma famille s'occupe de cette station de vol depuis des générations, et en a fait la meilleure station de tout Flaris.
+Alors pour voler c'est simple:\n 1. Achète un balai ou une planche à la station.\n 2. Double clique sur ton engin de vol dans l'inventaire pour l'enfourcher.
+ 3. Ensuite appuie sur la barre d'espace pour décoller.
+ 4. Utilise alors les touches Z, Q, S, D ou maintiens enfoncé le bouton droit de la souris pour contrôler ton vol.
+ 5. Double clique sur le bouton droit de la souris pour changer de direction sans maintenir le bouton enfoncé.
+ 6. Accélère ou réduis ta vitesse en appuyant de nouveau sur espace.
+J'espère que ces informations t'auront été utiles. A toi de jouer maintenant, je te souhaite bon vol !
+ Le combat en vol possède quelques particularités:\n1. Des symboles entourent les monstres volants quand tu t'en approches.
+ 2. Les monstres volants peuvent être ciblés en utilisant la touche Tab ou un clic gauche sur la souris.
+ 3. Pour attaquer un monstre ciblé, il te suffit de t'en approcher et cliquer gauche, ou presser la touche Insert.\n4. Le monstre peut également être suivi automatiquement en pressant sur la touche W.
+ 5. Une fois morts, les monstres volants lâchent des items qui restent en suspend dans les airs.
+ 6. Pour ramasser l'item, clique dessus ou utilise le mouvement adéquat pour ramasser les items à proximité (touche F3 par défaut).
+ 7. Les Mercenaires et Acolytes peuvent attaquer une fois au corps à corps, alors que les Magiciens et Acrobates sont en mesure d'attaquer à distance.
+Je te souhaite de devenir aussi redoutable dans les airs que sur terre.
+Avant tout, prenez plaisir à voler !!
+Ha ha ha ~ Je me sens vraiment à mon aise ici.
+Toute vie disparaîtra, une par une…
+Je suis le Sage des Moines, Domek Ilujian. J'étudie et médite sur la vie de Roentel, le Héros des Moines.
+Il faut toujours avoir de l'espoir… Eux aussi ont toujours su garder espoir.
+#b#cff0000ffVoulez-vous connaître le résultat de la dernière Guerre des Guildes ?#nc#nb
+Votre courage et votre sagesse conduiront votre guilde à la victoire !
+Je suis la manager des Guerres de Guildes. Je m'occupe de distribuer les récompenses, rembourser les frais d'inscription, réaliser les classements, etc.
+Bonne chance à tout le monde pour la Guerre des Guildes !
+L'écosystème de Madrigal est vraiment étonnant ! Plus on l'étudie, plus le mystère s'épaissit...
+Les monstres uniques comme Clockworks sont vraiment une énigme. Cela complique d'autant plus mes recherches.
+Je m'appelle Dr. Estly. J'étudie l'écologie de Madrigal avec mes deux frères.
+Rends moi visite quand tu voudras en savoir plus sur les monstres.
+Avant d'aider les autres, commence par t'aider toi-même !
+J'ai traversé de nombreuses épreuves pour en arriver là, mais telle est la voie de l'Acolyte.
+Je suis Elic Eward, j'enseigne aux Vagabonds comment devenir des Acolytes.
+Aide toi d'abord, et le ciel t'aidera !
+Je suis heureux ~~
+Ma puissance est si grande que les gens tombent des nues lorsqu'ils me voient en action.
+Mon nom est Eoners Archer, je suis l'un des soldats de Kyon. Personne ne peut surpasser ma magie ! Ha ha ha.
+Gloire à Kyon !!
+Que tous les habitants fassent régner paix et harmonie à Flarine, s'il vous plaît.
+Bienvenue à Flarine, la plus belle ville de Madrigal !
+Je suis la maire de Flarine, je m'occupe de la ville et de ses habitants.
+#b#cffff0000La Guerre des Guildes est ouverte chaque samedi !!#nc#nb Venez me voir pour plus d'informations.
+Bonjour ~ Nous organisons un grand combat entre guildes chaque semaine, pour déterminer quelle est la meilleure guilde de Madrigal. Venez tentez votre chance !
+Venez vous mesurez aux autres guildes de Madrigal, vous pouvez vous inscrire auprès du Manager des Guerres de Guildes. Bonne chance à tous !
+Bonne chance ! Et que la meilleure guilde l'emporte !
+Hmm… ceci pourrait me servir pour mon prochain roman, mais comment mettre tout cela en forme…
+J'écris actuellement un nouveau roman à destination du grand public, comme ça pas besoin de composer quelque chose de trop inventif et profond... Ha ha ha
+On m'appelle Gergantes Hambert. Je suis un romancier reconnu à travers Madrigal, ainsi que le président de l'Association des Ecrivains.
+Mon prochain roman sera un best-seller, vous verrez. Ha ha ha !
+Nous, soldats de Kyon, sommes une grande famille !
+Je ferai d'abord renaître l'Avatar de l'ombre, le plus puissant mantra de Roentel…
+Mon nom est Ghalade Elore. Je suis un soldat de Kyon, et un stratège dans l'art de la guerre. Ha ha ha !
+Vive Kyon !!
+Le souffle de Rhisis protégera ton corps et ton âme. La larme de Rhisis te ramènera d'entre les morts.
+Les êtres humains se croient toujours supérieurs ! Mais ils sont stupides, nous ne sommes pas inférieurs à eux !! Compris ?!
+Non merci ! Je ne veux pas parler à un être humain. Va t'en d'ici maintenant.
+Ne me parle plus jamais, ok ? Plus jamais !
+Nous vous attendons. Venez, braves aventuriers !
+C'est ton tour. Le test n'est pas encore terminé.
+Si tu n'es pas un brave, ne cherche pas à aller là-bas...
+Vouloir combattre seul… tu es vraiment insouciant ! Désolé, je ne peux pas te laisser entrer.
+Tu veux me défier ? Pour cela, tu dois d'abord te rendre à Flarine Nord.
+Tu y trouveras quelqu'un… un romancier.
+Ton heure n'est pas venue, tu n'es pas encore autorisé à me défier.
+Tu cherches à savoir qui je suis ? Et bien je suis à la fois l'existence et le néant…
+Hmm.. Des années se sont écoulées depuis que j'ai commencé à travailler ici. (soupir)
+Ha ha, ne te lamente pas tant. Tout ceci n'est pas vain, n'est-ce pas ?
+Une grande étoile s'évanouit derrière le ciel écarlate, et les autres étoiles brillent alors de plus belle.
+Je suis le Sage des Assassins, Guabrill Elldoradin. J'étudie et médite sur la vie de Heren, le Héros des Assassins.
+Ils resteront dans la mémoire collective, de génération en génération… car ils furent des Héros.
+#b#cff0000ffSi vous êtes courageux et habile, venez ici ! La Guerre des Guildes vous attend !#nc#nb
+Si vous être brave et sage, vous devriez vous confronter aux autres aventuriers. Et ceci est possible ici, maintenant !
+Je suis le manager des Guerres de Guildes, je m'occupe des inscriptions.
+Pour l'honneur de la Guilde !
+Notre volonté et notre colère pourraient tout faire disparaître de ce monde.
+Nous sommes bien supérieurs aux humains, c'est une évidence ! Tu ne peux que le reconnaître même si tu n'es pas d'accord.
+Je ne le dirai jamais à un humain comme toi. Compris ?
+Je m'ennuie et j'ai envie de partir… (soupir)
+Tu cherches à savoir qui je suis ? Et bien je suis à la fois l'existence et le néant…
+Hmm.. Des années se sont écoulées depuis que j'ai commencé à travaillé ici. (soupir)
+Le mal cherchera à s'emparer du monde, 8 étoiles apparaîtront alors et lutteront pour la paix et l'harmonie.
+Je suis le Sage des Chevaliers, Hormes Kudo. J'étudie et médite sur la vie de Billein, le Héros des Chevaliers.
+Etudier la vie des Héros est une activité passionnante. Oui, on peut le dire !
+Dégaine ton épée et tranche tout ce qui se mettra en travers de ton chemin ! En avant, Mercenaire !
+Les trois plus grande qualités d'un Mercenaire sont l'instinct, la force et la dextérité. Souviens toi de cela !
+Je m'appelle Hyuit Jenive, et j'aide les courageux Vagabonds de Madrigal à devenir de redoutables Mercenaires.
+Préserve ta fierté, ton courage et ton espoir !
+Si vous vous posez la moindre question sur la ville, je suis là pour vous répondre.
+vocNpcIs-open1.wav
+vocNpcIs-open2.wav
+vocNpcIs-open3.wav
+Que venez-vous faire ici ?
+Bonjour. En quoi puis-je t'aider ?
+Je m'appelle Is Trinity, et je suis en charge de renseigner les nouveaux aventuriers de Madrigal.
+Peut-être as-tu déjà rencontré d'autres personnes à Flarine qui t'ont proposé leur aide ?
+Mais bon, je suis sûre que je peux t'apprendre de nouvelles choses ~
+Flarine est la capitale de Madrigal, tu y es en totale sécurité. Mais attention, les monstres rôdent aux alentours…
+Avant de quitter la ville, sois bien sûr d'avoir collecté toutes les informations nécessaires et de t'être équipé comme il se doit !
+La ville fourmille d'artisans et de boutiques. Ballade toi simplement dans la ville et je suis persuadée que tu trouveras ton bonheur.
+Chaque boutique propose ses spécialités : armes, armures, boucliers, items magiques, ou autres.
+Je te conseille de bien faire tes provisions avant de partir à l'aventure, tu risquerais de le regretter par la suite sinon.
+Soit vigilant, car si ta jauge de HP se vide complètement, tu succomberas à tes blessures…
+Mais ne t'affole pas, si tu viens à mourir - et cela t'arrivera fais moi confiance - tu pourras ressusciter au Cristal de Vie de la ville.
+Cependant tu perdras quelques points d'expérience durement acquis, alors soit bien vigilant ! Il existe aussi des parchemins magiques qui pourrait t'être utiles en cas de déconvenue…
+vocNpcIs-close1.wav
+vocNpcIs-close2.wav
+Bonne aventure en Madrigal !
+vocNpcIske-open1.wav
+vocNpcIske-open2.wav
+vocNpcIske-open3.wav
+Je m'appelle Iske Trinity. Je suis la gérante du salon de coiffure de Flarine.
+vocNpcIske-close1.wav
+vocNpcIske-close2.wav
+vocNpcIsmeralda-open1.wav
+vocNpcIsmeralda-open2.wav
+vocNpcIsmeralda-open3.wav
+Mon nom est Ismeralda Trinity. Je suppose que tu as déjà rencontré ma soeur à Flarine.
+vocNpcIsmeralda-close1.wav
+vocNpcIsmeralda-close2.wav
+vocNpcIspim-open1.wav
+vocNpcIspim-open2.wav
+vocNpcIspim-open3.wav
+Je suis Ispim Trinity. As-tu déjà rencontré mes trois autres soeurs ?
+vocNpcIspim-close1.wav
+vocNpcIspim-close2.wav
+VocNpcIsruel-open1.WAV
+VocNpcIsruel-open2.WAV
+VocNpcIsruel-open3.WAV
+Je m'appelle Isruel Trinity. Je renseigne les nouveaux aventuriers.
+VocNpcIsruel-close1.WAV
+VocNpcIsruel-close2.WAV
+Voyons voir ce qu'il y a à réparer aujourd'hui… Olala, Kimberley me manque tant...
+Pourrais-tu me rendre un service s'il te plaît ?
+Ces derniers temps, j'ai reçu de nombreuses plaintes concernant la qualité des machines que j'ai vendues à Saincity et Darken. Je ne suis pas assez attentionné ces temps-ci…
+Je m'appelle Jeff Prosis, je suis l'ingénieur de Flarine. Je construit de nombreuses machines pour tout Madrigal. Malheureusement ma femme Kimberley travaille à Madrigal, c'est un peu dur à vivre...
+Si tu vas à Saincity, dis à Kimberley que je l'aime !
+Oh… Le Dukguk a disparu !! Olala que vais-je faire… Aidez-moi !!!
+J'ai toujours voulu devenir cuisinier. Maintenant que j'y suis arrivé, je suis le plus heureux des hommes ! Ha ha ha.
+Je m'appelle Juglin Girliart. Je suis un apprenti cuisinier, j'aide Losha ici.
+Bonne et heureuse année !!
+Vous cherchez la banque, les infos sur les guildes, ou quelques conseils ? Venez visiter l'#b#cffff0000office public#nc#nb.
+Que peux-tu faire pour moi ?
+(songeuse) Ah Boboku… Il est si viril, si fort, et si aimable. Mais il est trop vieux pour moi...
+Je m'appelle Julia Trinity. Je suis l'intendante principale de Flarine, en charge de l'office public.
+Propage désormais la sagesse de Rhisis à travers le monde !!
+Un Acolyte doit se consacrer à aider ses prochains, sinon sa quête est vaine !
+Je m'appelle Kidmen Nicore. Je peux t'enseigner les techniques qui feront de toi un grand Acolyte.
+L'esprit de dévotion ! Grave ça dans ta mémoire.
+Ha ha ha. Il est de notre devoir de les guider sur le droit chemin.
+Il y a quelque chose que je dois absolument faire. Pourrais-tu m'aider ?
+Ils sauvèrent le monde et devinrent source d'admiration.
+Je suis l'un des huit Sages et il est de mon devoir d'étudier et méditer sur la vie des Héros. Ceci est la volonté du Grand Sage Radion.
+Les Héros sont dans nos coeurs !
+Bienvenue dans cette plaine mystérieuse, qui fût créée en 3 jours par le Clown Bubble selon la légende...
+Une épée gigantesque tomba du ciel et la terre se mit à trembler !
+Bonjour, je m'appelle Kurmin Hershan et je veille sur la légendaire Plaine de Bubble.
+La lame de l'épée déchiqueta le ciel, et la hache géante entrouvrit la terre...
+Tu espérais que je te salue ? Hors de question ! Bien que je vive comme les êtres humains, je n'ai rien à voir avec eux !
+Moi ? Le fait que tu t'intéresses à moi me ravi, hé hé. Je suis le Grand Dwarpet Langdrong Clo, et je conserve précieusement le Livre des techniques.
+Ne te mets pas les Dwarpets à dos, où tu t'en mordras les doigts.
+Je suis le Pang de Flarine, je suis l'aîné de la famille des Pangs, qui veille sur Madrigal depuis des générations.
+Les meilleurs plats et aliments de Flarine sont ici !
+Que veux-tu ?
+Actuellement, je vis avec Sotta et ma petite soeur Loyah. J'adore la vie en communauté.
+Mon nom est Losha Encline. Je suis encore très jeune, mais je pense être la plus grande chef de tout Madrigal ! Ha ha.
+Reviens me voir. Je te préparerai des plats succulents.
+Venez goûter aux plats exquis de Loyah !
+Je cuisine uniquement des aliments de grande qualité. C'est pour cela que tous mes plats sont si savoureux. Ha ha.
+Je m'appelle Loyah Encline. Je tiens cette boutique avec ma grande soeur Losha.
+A très bientôt !
+Venez découvrir des fabuleuses armes et armures pour Vagabond !
+Ma boutique regorge d'équipements de qualité pour les Vagabonds. Hé hé.
+Mon nom est Luda. Il n'y a pas meilleur personne que moi pour équiper les Vagabonds.
+Bonne continuation en Madrigal !
+Boissons, fioles, mantras, conjurations, flèches … C'est ici que ça se passe !
+Voici ce que je te demande.
+Je n'arrive pas à croire que mon petit frère Roony ait un lien avec cet incident… Il est parti en grommelant qu'il ne reviendrai plus jamais.
+Je m'appelle Lui Keraldine, mais les habitants de Flarine me surnomme Lui le Magnifique. (rires)
+Reviens me voir, je te ferai peut être une ristourne ! Ha ha.
+Que Rhisis protège les aventuriers souhaitant devenir Acolyte.
+Tu dois continuer à t'entraîner pour expier tes crimes !
+Je m'appelle Maki Ak, je suis le Maître des Acolytes.
+Que la bénédiction de Rhisis t'accompagne.
+Vous recherchez un univers de magie et de féerie ? Entrez dans ma boutique pour réaliser votre rêve !
+S'il te plaît, résout cela aussi vite que possible.
+Mon maître Mule a connu des ennuis. On a dit qu'il était lié à un terrible incident, et il a dû prendre la fuite. J'espère le revoir un jour…
+Je m'appelle Marche Hordin. Ma boutique contient tous les items magiques dont on peut rêver.
+Merci de m'avoir rendu visite. A la prochaine !
+Ah… L'histoire de Madrigal… Tellement étrange… Il s'est vraiment passé quelque chose…
+Bonjour ~ Connais-tu l'histoire de Madrigal ? Non ? Hmm… Je ne connais pas tous les détails mon non plus…
+Je suis historienne à Flarine, mon nom est Martinyc Tictraibet.
+Les hommes font leur histoire même s'ils ne savent pas l'histoire qu'il font…
+La vie est un défi à relever, un bonheur à mériter, une aventure à tenter !
+Je m'appelle Mikyel, je propose différentes missions, qui m'ont été confiées par les habitants de Flaris.
+Etre un Mercenaire n'est pas donné à tout le monde… Je vais te confier un secret: en fait les Mercenaires sont les meilleurs aventuriers de Madrigal, ça ne fait aucun doute !
+Personne ne peut devenir Mercenaire sans avoir fait la connaissance du grand Mustang ! Ha ha ha.
+Je m'appelle Mustang Loid, et je suis en charge d'enseigner le meilleur métier du monde... Mercenaire ! Tu devrais être fier de suivre mon entraînement ! (rires)
+A bientôt l'aventurier ! Ha ha.
+De l'entrain mes enfants, de l'entrain !
+Nous voulons habiter à Flarine avec mon mari, mais nous attendons toujours notre citoyenneté…
+Je m'appelle Nina Horis, je suis l'épouse de Paul.
+Bonne chance dans tes aventures.
+Le temps aujourd'hui est… hmm…
+Que peux-tu faire pour moi ?
+Depuis que l'observatoire est construit, il est désormais possible de faire des prévisions météorologiques. J'ai vraiment bien fait de bâtir cet observatoire ! Ha ha ha.
+Je m'appelle Noier Hedltern. J'ai construit cet observatoire et j'en suis maintenant le directeur.
+On n'a pas besoin de lumière quand on est conduit par le ciel ! Ha ha ha.
+Bienvenue à Flarine ~
+L'office public est là pour informer les habitants de Madrigal, et gérer tous les aspects administratifs de la ville.
+Je suis un intendant et j'aide également la maire de Flarine dans ses tâches quotidiennes.
+N'oubliez pas que les intendants sont à votre service !
+Je me sens chez moi dès que je peux me relaxer un peu…
+Je suis imbattable pour peler les pommes - tellement rapide que tu ne vois même pas mes mains bouger ! Ha ha ha.
+Je m'appelle Phoho Andere. Je suis l'un des soldats de Kyon, et le meilleur combattant à l'épée !
+Béni soit Kyon !
+Maman, il fait froid…
+Nous allons habiter ici pour vivre avec mon père. Mais je n'aime pas trop cet endroit…
+Je m'appelle Pipo, je suis le fils de Paul Horis.
+Hmm... il semble que de plus en plus d'aventuriers aspirent à devenir des Héros ! Hé hé.
+On dit que huit étoiles tomberont du ciel, juste avant que le monde arrive à sa fin... Mais cela sera t-il suffisant pour sauver le monde à ce moment ?!
+En tant que l'un des huit Sages, j'étudie et médite sur la vie des Héros, comme le veut le Grand Sage Radion.
+Tout comme l'écoulement de la rivière, l'histoire des Héros se poursuivra pour l'éternité…
+Ha ha ha. Il n'y a rien de plus facile que de se faire de l'argent ! Ha ha ha.
+Va t-en vaurien. Je ne discute pas avec les pauvres ! Muwhahaha.
+Ha ha ha. Je suis le millionnaire Rudvihil Tailer. Je suis tellement riche que je collectionne les items les plus rares de Madrigal. Ha ha ha.
+Réfléchis… ensuite l'argent viendra à toi ! Ha ha ha.
+Soldats ! Hissez le drapeau de JeongHwa ! Battons nous pour l'honneur des peuples !
+Le mal sera toujours repoussé, et la lumière éclairera le monde à nouveau.
+Je m'appelle Ryupang Silog. En plus d'être un serviteur d'Offerep, je guide le drapeau bleu des soldats de JeongHwa.
+La foi et le courage seront nos seuls guides !
+Pourquoi ne pas atteindre le sommet de cette montagne aujourd'hui ? Hé hé, je suis sûr que ça serait drôle.
+Le ciel s'assombrira et la foudre s'abattra. Puis huit étoiles apparaîtront et illumineront le monde…
+Mon nom est Segho Pesin. Je suis un alpiniste, mais également un serviteur de Roentel. Mon rêve serait de gravir toutes les montagnes de Madrigal.
+Puisque la montagne ne vient pas à nous, allons à la montagne !
+Hmm.. Il y a quelque chose dans cette grotte…
+Allez, choisis une mission que tu peux accomplir.
+J'étudie la vie des Héros avec mes huit disciples. Cela fera partie à jamais de l'histoire de Madrigal, et ne dois jamais être oublié.
+Je suis Radion Angamel. Certaines personnes considèrent que je suis un sage, mais je suis juste un vieil homme qui a vécu beaucoup de choses…
+Toi... Hmm.. Non rien. A bientôt.
+Le poisson est exquis et le riz délicat. Venez déguster nos succulents sushis !
+Tu vois, il suffit de découper avec soin le filet de poisson, de préparer le riz, ajouter un peu de wasabi, et voilà… un succulent sushi ! Hu hu hu.
+Je m'appelle Sotta Segakku, et je prépare les meilleurs Sushi de tout Madrigal. Enfin d'ici quelques années... hu hu.
+Reviens goûter mes sushis d'ici quelques temps.
+Soldats de Kyon, rassemblez-vous !
+Il y a des yeux qui observent les huit Héros. Ils sont les yeux des créatures de ce monde.
+Je suis le leader des soldats de Kyon, Teshar Testarotsa. Je suis également un serviteur de Aenn.
+Mais… Arrête de faire l'idiot !!
+Cette journée a été bien remplie...
+Personne ne peut surmonter la puissance de mon marteau !
+Mon nom est Tomba Hammer. Je suis le meilleur au maniement du marteau parmi tous les soldats de Kyon !
+Gloire à Kyon !
+Parfois on observe des flèches tombants du ciel… c'est ce que l'on appelle une pluie de flèches.
+E voilà. Tu n'as pas d'autres choix que d'accepter. Hé hé !
+Nous, les Grands Dwarpets, sommes différents des autres Dwarpets… Ne cherche pas à nous comparer.
+Moi ? Tu veux savoir qui je suis ? Ecoute, je suis le Dwarpet qui déteste les êtres humains, c'est compris ?
+Adieu.
+Qui veut jouer avec moi ?
+Choisis en une que tu peux faire. Hé hé ~
+Tu veux jouer avec moi ? Ok !
+Je me nomme Ancimys. Comme tu peux le constater, je suis d'une élégance et d'une sophistication rare.
+Je m'appelle Ann Peltrot. Je m'occupe notamment du Jardin de Rhisis.
+Bienvenue à Saincity, la ville du matin sacré. Cette ville est si calme, c'est vraiment un bonheur de tous les jours que de vivre ici. Par contre il faut éviter de mettre les pieds en dehors de la ville…
+Il est important de rendre visite à tous les commerçants pour bien se préparer à l'aventure.
+Le bazar de Bill contient toutes les merveilles que vous recherchez !
+Que peux-tu faire pour moi ?
+Tina et moi, nous nous aimons. Mais pour l'instant, nous sommes obligés de nous voir en cachette...
+Je m'appelle Bill Bergenass, mon bazar est indéniablement la meilleure boutique de Saincity ! Hé hé.
+Au plaisir de te revoir !
+Une bonne soupe chaude ?
+Que recherches-tu ? Toutes les soupes que je prépare sont très spéciales !
+Hahaha. Je m'appelle Bowler Clo, j'ai monté cette petite boutique de soupe il y a quelques temps.
+Reviens me voir quand tu voudras une bonne soupe.
+Des armures alliant robustesse et magnificence sont en vente dans ma boutique !
+En quoi peux-tu m'aider ?
+j'ai l'impression que Bulrox ne m'apprécie guère… Est-il mal vu de chercher à rendre les armures jolies en plus d'être efficaces ??
+Je m'appelle Bozman Hangteiler, et je tiens cette petite armurerie.
+Ma boutique sera toujours ouverte pour toi !
+Venez voir les meilleures pièces interprétées par la fameuse troupe Pepole.
+J'adore les histoires sur les Héros, je fais d'ailleurs la collection des romans relatant leurs péripéties. Tiens je te conseille le livre sur les Combat des Héros, c'est un ouvrage formidable.
+Pepole est la meilleure troupe de théâtre de Saint Morning, mais également de tout Madrigal ! Enchanté, je suis Brodeay.
+Notre troupe n'a pas d'égal. Si tu viens, je te laisserai entrer gratuitement.
+Le forgeron Bulrox vous propose les meilleures armes de Saint Morning, n'hésitez pas !
+Peux-tu m'apporter ton aide ?
+J'aime vraiment beaucoup Tina, elle est si douce et gentille… mais j'ai l'impression que Bill voit Tina en secret. Erf. Enfin le vrai problème c'est cette bonne femme...
+Je suis Bulrox SHynante, le meilleur forgeron de Saincity. Bill est mon meilleur élève, ha ha ha.
+Il n'existe rien que tu ne pourras vaincre avec mes armes !
+Bouclier en vente ! Faites la queue.
+Tu es tombé au bon endroit si tu cherches de l'équipement ! Je ne vends que des produits de grande qualité.
+Je m'appelle Colack. En fait je n'ai ouvert cette boutique que récemment.
+Reviens me voir aussi souvent que tu le voudras.
+Saincity, la ville la plus paisible de Madrigal. L'écosystème ici est un miracle de la nature !
+S'il te plaît, accompli ces quêtes au plus vite.
+Les environs de Saincity sont infestés de monstres, donc j'ai de l'occupation. Ha ha ha.
+Je m'appelle Dr Estern. Comme mes deux autres frères, j'étudie l'écosystème de Madrigal.
+La nature est ancienne, mais elle nous surprend tous !
+Ha ha ha. L'histoire de Madrigal est vraiment le plus grand des mystères !
+L'histoire ne devrait jamais être enfouie et oubliée, qu'elle soit plaisante à attendre ou non !
+Enchanté, je m'appelle Gothante Destratin, je suis le directeur de la Société de l'Histoire de Madrigal.
+La légende est à mes yeux plus vraie que l'histoire. Médite là-dessus, ha ha ha.
+Venez suivre mon enseignement, vous qui souhaitez devenir magicien.
+Le Magicien est celui qui possède la plus grande puissance, le plus grand savoir et la plus grande spiritualité, n'es-tu pas d'accord avec moi ?
+Je suis Hee Lyu, le Maître des Magiciens. Je cherche à recruter de nouveaux disciples, mais les aventuriers talentueux se font rares…
+Garde à l'esprit que la véritable force commence par la sagesse !
+Saint Hall est définitivement le plus impressionnant bâtiment de tout Madrigal !
+Toutes mes félicitations, tu es désormais le Maître d'une guilde.
+Hmm…  Tu ne respectes pas les conditions pour fonder une guilde… Je te rappelle que tu dois être le leader d'un groupe de trois joueurs uniquement, et qu'aucun des joueurs ne doit avoir fait partie d'une guilde depuis les dernières 48h.
+Saint Hall est un bâtiment d'une grande importance. C'est le symbole de Saint Morning !
+Tu dois m'apporter 3 millions de Penyas, sinon je ne pourrai te laisser fonder ta guilde.
+Je m'appelle Helena Obette, je travaille à l'office public de Saincity.
+Fais moi signe si tu as besoin d'aide.
+Avez-vous en votre possession quelque chose de rare et précieux ?
+Tu détiens quelque chose de rare et précieux ? Montre moi, s'il te plaît ! Quoi ? Ce n'est pas vrai ? Sniff…
+J'ai acquis une grande expertise des items rares et précieux. Mais pour l'instant, je ne fais que travailler pour les plus riches habitants de Madrigal, pour leur collections personnelles...
+Je te souhaite une belle journée !
+....
+Le laboratoire de Saint Hall est le plus grand institut de recherche de Madrigal. C'est d'ailleurs ici que furent développés les premiers balais volants.
+Je m'appelle Heltung Mondugane. Je suis le chercheur en chef du Projet 2, ici au laboratoire de Madrigal.
+J'espère que l'on se reverra bientôt.
+Je m'appelle Herth Emaldhan, je fourni des informations sur Saincity aux aventuriers.
+Mon nom est Janne Orgriman. Je m'efforce de répondre aux questions des aventuriers qui viennent me voir.
+(pleurant) Retrouvez mon enfant ! Je vous en prie !
+(souriant) Mon enfant était vraiment le plus beau de Madrigal…
+Je me nomme JeongHwa Song. Je suis arrivé à Saint Morning il y a quelques années.
+Ma fille s'appelle Jingyoung, préviens moi au plus vite si tu la trouves.
+De la nourriture saine pour un corps sain !!
+Que peux-tu faire pour moi ?
+Je n'aime pas Bulrox, et je n'apprécie pas plus Bill ! Mais comment ma fille peut elle traîner avec ces… Rhaaa ça m'énerve !!
+Mon nom est Karin Sharafobhan, je suis la patronne ce ce magasin d'alimentation. Et la vénus de Saincity, Tina, est ma fille ~
+A bientôt. Et garde une alimentation équilibrée !
+Je suis Kimberley Prosis, j'aide les nouveaux arrivants de Saincity. Et le génial Jeff de Flarine est mon mari ! Hi hi.
+Les citoyens de Saincity ont de nombreuses missions à vous confier. Venez leur en aide !
+Bienvenue.  Mon nom est Lancomi, je suis le responsable du centre des quêtes de Saincity.
+Je m'appelle Leann Hentte. Puis-je te renseigner ?
+Je suis le Pang de Saint Morning, le deuxième enfant dans la famille Pang ~
+Honorez la volonté de Rhisis !
+Un Magicien a besoin d'une grande force spirituelle. Si tu ne possède cette faculté d'esprit, trouve une classe qui ne requiert pas trop d'intelligence, comme Mercenaire ! Ha ha.
+Je suis l'instructeur Lopaze Jenip, le peux t'aider à devenir le meilleur Magicien !
+La puissance de l'esprit. N'oublie jamais que c'est la qualité première du Magicien.
+Vous recherchez des magies puissantes ? Ne cherchez plus, la boutique de Martin vous ouvre ses portes !
+J'ai beaucoup de choses à te demander, haha.
+J'ai entendu que Mule avait eu des soucis… C'est triste, Mule est l'un des plus grand magicien de tout Madrigal !
+Je suis Martin Scorsige, le propriétaire de cette boutique. Mais je suis aussi le président de l'Association des Magiciens. Hé hé.
+A bientôt. Que la magie guide tes pas.
+Wow ! Génial ! J'en veux un !
+Hé hé hé. Je collectionne les items les plus rares… et les jolies filles aussi ! Ha ha ha.
+Salut, je m'appelle Mayun Song. Je suis quelqu'un de super cool, je sais pas pourquoi, mais c'est comme ça. Ha ha.
+A plus!
+Bienvenue à la station de Saincity !
+Leur sang nourrira le sol, et leur cris traverseront le ciel. Puis tout sera fait selon leur volonté…
+Je m'appelle Parine Hoavent et je suis un disciple de Lillip. Mais pour l'instant, j'apprend le travail à la station auprès de Tina.
+Nous proposons des offres spéciales à la station de Saincity !
+(se parlant à soi même) C'est… bizarre… étonnant… hmm…
+(surpris) Oh ! J'étais perdu dans mes pensées...
+Je m'appelle Porgo Berldent, et je suis le directeur de l'Association des Disparus de Saint Morning.
+Pourrais-tu nous aider à résoudre ces mystères ? Tu es en droit de refuser…
+Bien le bonjour ~
+Madrigal recèle tant de choses précieuses et rares. Je ne peux pas mourir avant de les avoir toutes collectionnées !!
+Je collectionne tout ce qui est rare et précieux en Madrigal. Pour cela, certaines personnes m'appellent le Collectionneur étrange.
+A bientôt. Reviens me voir dès que tu auras des items rares et précieux !
+Oh ! S'il te plaît, fais attention. Ce manuscrit de la plus haute importance est très ancien !!
+Il faut être très prudent avec les documents anciens, du fait de leur grande fragilité.
+Je m'appelle Rovanett Ganelis. Je conserve les documents les plus rares et anciens ici, à la bibliothèque de Saincity.
+N'hésite pas à revenir me voir si tu cherches des informations.
+Comment allez-vous mes chers concitoyens ? Etes-vous heureux de la vie que vous menez ici ?
+J'essaie toujours d'améliorer le quotidien des habitants de Saincity. En quoi puis-je t'aider ?
+Je suis le maire de Saincity, et à ce titre je suis responsable du bonheur de mes concitoyens.
+Gloire à Saincity !
+Tout ce dont vous avez besoin se trouve à la station de Saincity.
+Je voudrais te demander de faire quelque chose pour moi.
+Bill et moi, nous nous aimons énormément, mais ma mère ne le supporte pas… Alors nous nous voyons en cachette.
+Mon nom est Tina Sharafobhan, je m'occupe de la station de Saincity. Tu as peut-être déjà rencontré ma mère à la boutique d'alimentation ?
+Bon vol !
+Venez jeter un oeil à mes superbes boucliers !
+L'avarice est un vilain défaut….
+Me crois-tu ?
+Je suis en train de répéter l'Acte 3. Qu'en penses-tu, je suis talentueux n'est ce pas ?
+Notre troupe, Pepole, est la plus connue de Madrigal… Enfin peut-on discuter plus tard, car la on est en répétition comme tu le vois !
+Mais en dehors du théâtre, est-il une vie ?
+Ô, Juliat ! Laisse moi seul, je ne mérite pas ton amour.
+Juliat, nous ne nous reverrons plus jamais.
+Adieu, ma douce Juliat.
+Peux-tu me rendre service ?
+Je suis en pleine répétition de l'Acte 4. Que penses-tu de mon jeu d'acteur, honnêtement ?
+Romao, pourquoi nos familles ne nous laissent-elles pas vivre pleinement notre amour ?
+Ma fenêtre sera toujours ouverte pour toi.
+Romao, je t'aimerai jusqu'à la fin des temps, reviens je t'en prie.
+Que peut-on y faire ?
+Romao, le soleil se couche… Demain est un autre jour et apporte un autre choix…
+Tu comptes t'éterniser ici ? Quittons cet endroit.
+Oh toi ! Comment tu fais pour ne pas arriver à te décider ?
+Que peux-tu faire pour moi ?
+(en pleurs) Bouhouhouhou
+Où est ma fille ? Quelqu'un l'a vue ?
+Ma fille… que puis-je faire pour la retrouver ?
+Pourrais-tu me faire une faveur ?
+Le monde fût plongé dans le chaos, et les seules choses que l'on pouvait encore entendre étaient des gémissements...
+As-tu la force d'esprit suffisante pour devenir Magicien ?
+Tout dépend de toi maintenant. Mais il sera plus facile de traverser les épreuves si tu ne regrettes pas ton choix.
+Je suis le Maître des Magiciens, Wingyei Spero. Tu es entré au bon endroit si tu souhaites percer les secrets de la magie.
+Crois toujours en toi !
+Vous êtes à la recherche de nouvelles magies ? Ma boutique est là pour vous !
+Choisis une mission que tu peux accomplir…
+Pour être honnête… j'aime Achaben ! Mais je ne crois pas qu'il veuille de moi, car je suis plus âgée que lui… snifff.
+Je m'appelle Haven Bgeoner, ma boutique propose de nombreux items magiques qui te seront sûrement utiles.
+Prends soin de toi ~
+Le plus surprenant bazar de Madrigal est ici !
+Pourras-tu m'aider ?
+Je suis un marchand ambulant, mais comme tous les autres membres de l'Union de Khan, je suis très réputé pour la qualité de mes produits.
+Je m'appelle Tandy Khan. Je vends des items divers et variés, ici dans le village d'Anicenight.
+Amuse toi bien !
+Je ferai tout pour le bonheur des citoyens de Darken !
+Peux-tu me donner un coup de main s'il te plaît ?
+Je suis très occupé à m'occuper de mes concitoyens… En quoi puis-je t'aider ?
+Bienvenue à Darken ~ Je suis la maire de cette ville.
+Que vous soyez tous heureux, ici à Darken !
+Hmm…  Il semble que tu ne respectes pas les conditions pour fonder une guilde… Je te rappelle que tu dois être le leader d'un groupe de plus de trois joueurs, et deux jours doivent s'être écoulé depuis que tu as dissout ou quitté ta précédente guilde.
+Es-tu prêts à fonder ta guilde ? Si ce n'est pas le cas, file, car je suis très occupé ces temps-ci.
+Fonder la guilde.
+En cours.
+868
+Hors de ma vue !! Tu manques d'entraînement
+Termine ce que tu as à faire d'abord !
+Tu ne peux pas tout faire seul !
+Attend encore un petit peu…
+Apporte moi les Rubis de Joie, de Colère et de Chagrin. Alors tu auras accès à un endroit secret.
+Je ne peux rien pour toi tant que tu ne m'as pas rapporter les trois rubis…
+Je te guiderai vers un lieu secret si tu m'apportes ces trois rubis.
+Ne te demandes-tu pas ce que peut être cet endroit mystérieux ??
+Ne cherches pas à savoir qui je suis… Rapporte moi simplement les rubis…
+Au revoir, que la lumière sacrée te guide.
+Collecter les Rubis de Joie, de Colère et de Chagrin.
+Erf, je m'ennuie ! ... J'en peux plus !! … Je M'ENNUIE !!!
+Qu'est-ce que tu veux ?
+Tu aurais une blague à me raconter ? Non ? Sors d'ici alors !!
+Qu'est-ce que c'est ? Est-ce que c'est drôle ? Hmmm… Introduction… ça m'a pas l'air drôle du tout ça !!
+Merci beaucoup, je me suis bien amusé. J'attend avec impatience que tu reviennes me rendre visite, héhé.
+Je t'offrirai une perle si tu me rapportes des Gâteaux de riz.
+Pour 1000 Gâteaux de riz, je te donnerai une Perle rouge…
+Je suis Evil Tobby, l'aîné des frères Evil.
+Bonne année.. Ha ha hors de question…
+Je t'ai dit que je t'échangerai une perle contre des Gâteaux de riz.
+Pour 600 Gâteaux de riz, tu auras une Perle orange.
+Mon nom est Evil Dorry, as-tu rencontré mes autres frères ?
+Bonne année ! Ha ha hors de question…
+Ramène moi les Gâteaux de riz, et je te donnerai cette perle…
+Tu auras une Perle jaune contre 300 Gâteaux de riz.
+Je m'appelle Evil Nana, et oui, j'ai quatre charmants frères. Ha ha !
+Bonne année ! Non je plaisante…
+Je t'ai dit que je te donnerai une perle si tu m'apportes des Gâteaux de riz.
+Je t'échange une Perle verte contre 100 Gâteaux de riz.
+Je suis Evil Tubby, et j'ai quatre autres frères.
+Bonne année ! Non je plaisante…
+Une perle ok... mais contre des Gâteaux de riz !
+0 Gâteaux de riz et la Perle bleue est à toi.
+Je m'appelle Evil Pho, je suis le plus jeune des frères Evil.
+Bonne année ! Non je plaisante…
+Je t'offrirai un arbre si tu me rapportes des feuilles.
+Je t'offrirai un Sapin si tu me rapportes 100 feuilles.
+Je suis la Dryade des Sapins.
+J'espère que tout va bien pour toi.
+Je t'échangerai un arbre si tu me ramènes des feuilles.
+Je t'offrirai un Arbre à kaki contre 300 Feuilles.
+Je suis la Dryade des Kakis.
+J'espère que tout va bien pour toi.
+Je te donnerai un arbre si tu me ramènes des feuilles.
+Je t'échangerai un Poirier contre 600 Feuilles.
+Je suis la Dryade des Poiriers.
+J'espère que tout va bien pour toi.
+Je t'échangerai un arbre si tu me ramènes des feuilles.
+Tu recevras un Arbre à pin si tu m'apportes 1000 Feuilles.
+Je suis la Dryade des Pins
+Je t'offrirai un arbre si tu me ramènes des Feuilles.
+Que ceux qui veulent confesser leurs péchés viennent me voir.
+Si tu arrives à invoquer un Ange, cela te permettra d'expier tes crimes. Pour cela tu as besoin de trois dés, plus ton résultat sera élevé, plus l'Ange sera prêt à te pardonner...
+Je suis le Clerc de la Confession. Rempli les points d'expérience de l'Ange, et offre moi un million de Penyas. Alors seulement ton âme sera lavée de ses crimes…
+Tu dois payer pour tes crimes.
+(en pleurs) S'il vous plaît… Aidez-moi…
+(les larmes aux yeux) Quelqu'un a t-il vu mes fournitures de bureau perdues ? C'était un cadeau pour les enfants…
+Bien le bonjour ! Je suis un nouveau professeur de l'Ecole de Magie de Madrigal. Je suis sûr que mes talents de magie et mon affection pour mes élèves conduiront à des grands résultats !
+Préviens moi si tu retrouves mes fournitures
+(énervé) Mais… Mais où sont les fournitures de bureau ?!
+Les monstres !! Ils ont volé les fournitures de bureau !!
+Je suis un nouveau professeur à l'Ecole de Magie. Mais hors de ma vue si vous n'aimez pas étudier !
+J'ai dit, hors de ma vue !!
+Avez-vous trouvé mes fournitures de bureau par hasard ?
+Hmm… je suis sûr que c'est encore un coup tordu des monstres de Madrigal…
+Bonjour, je suis professeur à l'Ecole de Magie de Madrigal. Venez faire un tour dans ma classe, et vous deviendrez plus puissant que jamais !
+Réfléchis bien à ce que je t'ai dit, et reviens me voir plus tard…
+~ Offrez des Chocolats de Valentin ~
+Je peux vous faire des Chocolats de Valentin gratuitement si vous m'apportez les ingrédients ~
+Bien le bonjour, je suis l'Apprentie cuisinier !
+A très bientôt !
+Olala…Qu'est-ce que je vais faire…
+Je suis vraiment désolé que l'Apprentie cuisinier ait encore fait n'importe quoi…
+Bienvenue ~ Venez rendre visite au meilleur chocolatier de tout Madrigal !
+Pas envie de goûter aux meilleurs chocolats du monde ?
+Pour le bien de la nature, aidez-nous à collecter des semences !
+Des semences mystérieuses sont dispersées dans Madrigal, et elle se transforme en cadeau ou en jeune semence en les ramassant...
+Bonjour, je m'occupe de collecter les semences, venez me voir si vous en avez ramassées !
+il faut absolument préserver l'écosystème de la forêt !
+(les larmes aux yeux) Sans la forêt, toute vie disparaîtra en Madrigal !
+Ramassez les semences du printemps, vous ne serez pas déçus !
+Bonjour ~ Je suis le Garde Forestier de Madrigal.
+La nature sait se montrer reconnaissante…
+Sauvons la forêt !!
+C'est le printemps, il faut vite collecter les semences ! Tout le monde doit contribuer pour préserver la nature !
+Protégeons la forêt ! Protégeons Madrigal !
+Si tu aimes la nature, c'est le moment de le prouver !
+Hey, pourquoi ne pas visiter le Parc National ?
+Avez-vous remarqué les semences disséminées dans Madrigal ? On dit que si on essaie de les ramasser…
+Je veux que le Parc National de Madrigal devienne le plus beau parc de l'univers !
+Au revoir !
+Je sais comment concocter un breuvage délicieux… Venez me voir si vous en voulez !
+Bonjour ~ C'est moi, Pang ~
+Cherchez bien tous les ingrédients que je vous ai indiqué, et revenez me voir plus tard !
+Quand vous les aurez trouvés… Miam !
+Amusez-vous et recevez une récompense !
+Je vous récompenserai si vous gagnez au Jeu du Chifoumi.
+Bonne chance ~
+Vous mettez votre vie en péril en entrant dans la zone de Bolcain…
+Personne n'est admis dans la zone de Bolcain.
+N'attendez pas une réponse de ma part !
+Je peux répondre à vos questions…
+Que Rhisis vous bénisse !
+C'est vraiment difficile d'expliquer qui je suis… qui plus est quand je l'explique moi-même !
+Vous me trouvez intriguante ?
+Les familiers sont les partenaires parfaits des aventuriers de Madrigal.
+Les membres de ma famille sont les meilleurs éleveurs de familiers de Madrigal. Nous pouvons faire de n'importe quel familier un partenaire pour la vie.
+Je suis le meilleur éleveur de familiers de Madrigal. Viens me voir si tu as besoin de mon aide.
+Pourquoi ne pas élever un familier ?
+N'essaie même pas de me parler !
+Tu ne peux pas passer ici. Et ne me demande pas quand tu pourras passer.
+A dire vrai, je plais énormément. Vraiment !
+A plus tard !
+Allez, maintenant exprime tes sentiments à l'élu(e) de ton coeur.
+Si tu as quelqu'un dans ton coeur, pourquoi ne pas lui montrer à l'occasion du Festival des Etoiles ?
+Je répend l'amour dans Madrigal.
+L'amour est tout ce dont vous avez besoin.
+Je veux être aimée…
+Parfois, donner apporte plus que recevoir.
+Je souhaite que tous les habitants de Madrigal puissent vivre heureux et amoureux.
+A très bientôt !
+Les armes peuvent être rendue plus puissantes en les convertissant aux grades Unique et Ultime !
+Quel type d'armes possèdes-tu ? Si tu n'es pas satisfait de tes armes, apporte les moi, et je les améliorerai !
+Je m'appelle Bobochan, et je suis le forgeron le plus réputé de tout Madrigal ! Je peux sûrement te rendre quelques services et améliorer tes armes…
+Des armes plus puissantes te mèneront à la victoire !
+Hey, pssst! Wanna get a new board? C'mere and I'll tell you!
+Buy more to get more sticks! You can do it! For great justice!
+Hiya! I'm Pang.
+We are introducing this new state-of-the art NESCAFE 3in1 Ultimate Hoverbike, employing the latest in turbo propulsion. Do you want to hear it?
+Good luck with your quest! Rest assured, it's going to be one cool ride when you obtain the requirements for the NESCAFE 3in1 Ultimate Hoverbike!
+Good day, I am from the NESCAFE Flight Academy!
+Les moustiques envahissent Madrigal !
+S'il te plaît, j'ai vraiment besoin de votre aide ! Chasse les moustiques !
+Bonjour, nous sommes le comité de protection contre les moustiques de Madrigal.
+Sans moustique, l'été est plus beau !
+1005-Can you feel the wind on your face?
+1006-Hrrr. Everything I gathered suddenly disappeared. I don't think I can find them again.
+1007-I'm gathering the pieces of an ancient Flying Ship. When I finish putting it together I will explore the skies in it!
+1008-All I want is to soar through the air in a Flying Ship!
+#b#cff0000ffLes membres de votre guilde sont ils les plus fort ? Venez le savoir à l'arène de l'apocalypse !#nc#nb
+Une guilde puissante est composée de membres puissants! Testez si votre guilde est rééllement puissante à l'arène de l'apocalypse !
+Je suis en charge des inscriptions et des entrées pour l'arène de l'apocalypse.
+Montrez nous qui sont vraiment les plus puissant.
+#b#cff0000ffVenez me voir si vous avez des questions à propos de l'arène de l'apocalypse.#nc#nb
+C'est une forme d'accomplissement de soi même de se battre en un contre un avec quelqu'un !
+Je m'occupe des récompenses de l'arène de l'apocalypse. Je m'occupe aussi des abandons et de tenir le classement des combattants. 
+Vous voulez vous inscrire à l'arène de l'apocalypse ? Bien !
+Vous pouvez obtenir des choses très rares ici.
+Apportez des Jetons Rouge pour pouvoir acheter mes objets. Vous pouvez obtenir des jetons rouge en participant aux guildes sièges.
+Je suis Charles, le changeur de jetons rouges ! Tout ce que je vend peux être acheté avec des jetons rouges !
+Vous ne trouverez jamais ce que je vend ailleurs !
+1021-Merry Christmas and Happy Holidays!
+1022-The Holiday Season is here!  The festive spirits of the holidays smile down upon Madrigal!
+1023-I am the Santa of Madrigal and I've been very busy as of late delivering these gifts, ho ho ho!
+1024-I hope you have a splendid holiday season!
+Seul les plus fort survivront en ce lieu !
+Penses tu que tu es assez fort ? Il vaudrait mieux que tu réfléchisses bien.
+Mon nom est Harold, je suis le gardien de cet arène. Reviens me voir quand tu voudras retourner en Madrigal. Ha ha ha!
+Tu dois te focaliser sur comment devenir plus fort tout le temps.
+Pourquoi ne te préparerais-tu pas avant d'entrer dans l'arène ?
+Hep, méfie-toi une fois entré dans l'arène, tu peux être attaqué n'importe où par n'importe qui.
+Mon nom est Derek et je vends des objets nécessaires pour le combat. Mon gars, tu as besoin d'objets pour gagner le combat.
+Il n'est pas facil d'importer des objets de Madrigal jusqu'ici..
+Aventuriers, approchez-vous!!
+Bonjour, jeune aventurier. Si ton niveau est compris entre 1 et 150, je peux te rendre plus puissant.
+Je suis le guide des aventuriers. N'hésitez pas à me demander si vous avez besoin de buffs.
+Amusez vous sur FlyforFun.fr !
+VocNpclui-open1.wav
+VocNpclui-open2.wav
+VocNpclui-open3.wav
+VocNpclui-close1.wav
+VocNpclui-close2.wav
+VocNpcbulrox-open1.wav
+VocNpcbulrox-open2.wav
+VocNpcbulrox-open3.wav
+VocNpcbulrox-close1.wav
+VocNpcbulrox-close2.wav
+Vous vous croyez fort ? Prouvez le dans l'arène !
+Il n'ya aucune pénalité dans l'Arène, essayez ! Par contre, il faut avoir choisi votre première profession pour pouvoir entrer.
+Je suis Ray, et je gère l'Arène. Eh, vous avez l'air de quelqu'un de costaud !
+N'ayez pas peur, éssayez !
+1051-Lass uns Bäume pflanzen!
+1052-Warum pflanzt du nicht ein paar Bäume in Darkon und machst es so schöner?
+1053-Ich kümmere mich um die Wälder in Madrigal. Madrigal ist unsere Heimat, also lass sie uns schön und sauber halten.
+1054-Liebst du die Bäume? Ich liebe Bäume! Ja, das tue ich.
+1055-Du brauchst einen Collector? Dann komme mich besuchen.
+1056-Was? Du hast noch nie Gegenstände in der Collector Area gesammelt? Dann musst du es unbedingt versuchen! Man kann dabei Reich werden!
+1057-Ich entwickel Collectoren und verwalte diese. Ich versuche immer neue Versionen von noch besseren und schnelleren Collectoren zu erfinden.
+1058-Warum legst du nicht deine Bewaffnung ab und benutzt den Collector?
+1059-Please find the monster who stole the pumpkin!
+1060-Pumpkin porridge to eat and go, but the village with everyone ... What they went to steal the whole monster pumpkin .. Please get back to the pumpkin.
+1061-Pumpkin porridge taste when I see it, you'll know where to find me again not forget the taste.
+1062-Tastes good and good and eat a lot of good Pumpkin porridge ~
+1063-Those who come to me want to become stronger yiyeo ~
+1064-Why do not you want to become stronger? If so, the things I asked the blessing of moahoh Fax ??-City as a gift box to give this tremendous.
+1065-I am a priest of the goddess enshrined on Mt Fax. Peuripeu through the world's quest for adventurers try to find out more're trying to lead a strong force.
+1066-That you do not want to get the treasure box? 
+1067-I am the Hostess who is running the Prepaid Card event.\nTo celebrate the opening of our prepaid cards in Target and Staples, we are running an event!
+1068-Here is how the event works :\nBuy a gPotato prepaid card at Target or Staples.  Go to our website and redeem the prepaid card for gPotatoes. At the end of the redemption process, choose a bonus item.  A special gift box will be delivered to your inventory!\nOnce you get the gift box, come back to me, and tell me you wish to ¡°Redeem Gift¡±.  I will then help you open your gift box, giving you a special bonus item!
+1069-Farewell City balloon
+1070-What could I do for jiknyeo for ...
+1071-Recently I was at the festival and jiknyeo. And had a great time to sell them to different foods. But before you enjoy a good time while got up this sad ...
+1072-I'm happy that my jiknyeo happiness. I love to keep a smile jiknyeo as far as you can about everything I want to tell.
+1073-Caring people feel valued if you can not forget.
+1074-He will not. The important silk disappear ..
+1075-For the Tanabata had a beautiful shooting star that had fallen, unfortunately, is getting antteoleo .. recently went to the festival with Altair. When I had a great time, but sad.
+1076-Then do not do anything to meet Altair's just like I'm just happy to have itneungeot. Altair I hope soon I'm happy going to the present.
+1077-This happy period Tanabata will pray for you. 
+1078-
+Ceux qui ont l'âme d'un brave devraient essayer les Chambres secrètes.
+Voulez-vous conquérir l'Est (Flarine, Saint Morning et la Tour Oubliée) ? La guilde qui domine la région est celle qui reçoit des taxes en provenance de cette région et des entrées de la Tour Oubliée.
+J'ai la responsabilité des Chambres sercrète de la région Est. N'hésitez pas à me poser des questions.
+Propage partout la bénédiction de Rhisis...
+Si votre guilde n'est pas assez puissante, ne pensez même pas à participer aux Chambres secrètes.
+Voulez-vous conquérir l'Ouest (Darkon1, Darkon2, Darkon3, Harmonin et l'Arène) ? La guilde qui domine la région est celle qui reçoit des taxes en provenance de cette région.
+J'ai la responsabilité des Chambres sercrète de la région Ouest. N'hésitez pas à me poser des questions.
+Propage partout la bénédiction de Rhisis...
+Je ne peux pas imaginer un monde sans cartes !
+Si tu penses que les cartes de bas niveau sont innutiles, tu te trompe !\nJe peux éssayer de convertir 10 cartes en 1 cartes de niveau supérieur.
+Je suis le Maître des cartes. Je ne comprend pas ces joueurs qui jettent leurs cartes de bas niveau..
+Il n'y a aucunes cartes inutiles !
+J'adore les joyaux ! Ils sont si beau !
+Les joyaux augmenterons votre puissance. Viens me voir et je créerai de nouveau joyaux.
+Je suis Peach et j'assiste Bobochan. Je ne m'occupe que des armes de haute qualité. Je vends aussi des parchemins d'éveils pour votre équipement et vos familiers. 
+Amusez vous bien.
+Des trucs ! Il me faut des trucs !
+Je vous en supplie, apportez moi vos objets inutiles et je vous les échangerai contre quelque chose d'utile.
+Je suis atteind du syndrome de diogene ! Je collectionne tous les trucs inutiles !
+Allez ! Apportez moi plein de trucs !..
+1099-Ich liebe Glasmurmeln!
+1100-Ich habe bisher jede einzelne Glasperle in Madrigal gesammelt, aber es gibt eine, die nur von Monstern erhältlich ist. Ich will diese unbedingt.
+1101-Ich bin ein hübsches Mädchen und liebe Glasperlen!
+1102Ich liebe Glasmurmeln!
+1103-Fröhliches Halloween. Möchtest du eine Gruselgeschichte hören?
+1104-Meine Geschichte ist nun zu Ende. Bitte erzähl sie anderen! 
+1105-Hallo. Heute werde ich euch eine fantastisch gruselige Geschichte erzählen!
+1106-Warum bleibt ihr nicht für eine Weile und hört sie euch an?
+Vous voulez votre propre studio ?
+Aimerai-tu posséder ton propre studio ?
+Je vend des meubles pour votre studio. Je suis aussi le meilleur charpentier de tout Madrigal !
+Pourquoi ne pas prendre un peux de repos chez vous ?
+1111-Wenn man ein schönes Zuhause hat, kann man ausgeruht und gestärkt in den Kampf um Madrigal ziehen.
+1112-Hilf mir! Der Winterschnee in Madrigal schmilzt! Bitte rette den Winter!
+1113-Frohes neues Jahr
+1114-Ich bin Madrigals Wintergott.
+1115-Frohes neues Jahr
+1116-Frohes neues Jahr
+1117-Frohes neues Jahr
+1118-Ich bin Madrigals Wintergott.
+1119-Frohes neues Jahr
+1120-Denke an jemanden, den du magst... schön, oder?
+1121-Denke an jemanden, den du liebst... schön, oder?
+1122-Hi! Mein Name ist Grahoo, ich folge dem legendären Knight. Der legendäre Knight kommt immer am Valentinstag.
+1123-Der Valentinstag ist mein Lieblingsfeiertag!
+1124-So gutaussehend zu sein, ist fast schon ein Verbrechen...
+1125-Selbst ein legendärer Krieger sollte andere nicht einschüchtern.
+1126-Ich bin Aberu, der legendäre Krieger. Ich kriege viel Schokolade von hübschen Mädchen geschickt. Immer nur her damit.
+1127-Alle Mädchen finden mich umwerfend.
+1128-Hi! Ich bin Aberu, der legendäre Krieger. Der König steht mir immer zur Seite. Gar nicht schlecht, die rechte Hand des Königs zu sein.
+1129-Hey, wenn du gerade nicht beschäftigt bist, kannst mir vielleicht helfen.
+1130-Ich habe da ein Problem. Ich brauche bestimmte Zutaten für ein besonderes Gericht.
+1131-Ich bin der beste Koch Madrigals.
+Que Rhisis vous protège
+Vite vite, le nouveau souverain sera bientôt ici... Nous n'avons quasiment plus de temps.
+Je suis Alice, responsable de la zone d'Azria.
+Gardez la tête haute !
+1136-Nut Mut, Leute!
+1137-Heute ist Wandertag!
+1138-Kommt mit zu einem Ausflug!
+1139-Ich bin Oasis, dein Betreuer für den Madrigal Wandertag.
+J'organise les défenses sur Harmonin.
+Bonjour, je suis Jano. J'organise les défenses sur Harmonin.
+Bonjour, je suis Jano. J'organise les défenses sur Harmonin.
+Bonjour, je suis Jano. J'organise les défenses sur Harmonin. Les Poisifurms volent la nourriture et le bétail. Pourriez-vous nous en débarrasser ?
+Il y a encore beaucoup de missions. N'hésitez pas à revenir.
+Bienvenue chez "la Faim de l'aventurier".
+1146-Hi! Such dir etwas aus, ich mach dir einen guten Preis.
+Je voulais devenir aventurier, mais le sort en a décidé autrement.. Je vend maintenant du matériel aux aventuriers.
+Je suis Luca, représentant des commerçants harmonins. Ma boutique est la seule du camp Hotaru.
+Très bien. Vous reviendrais, je le sais.
+Bienvenue, comtemplez la beautée sauvage de Harmonin.
+1151-Die Schönheit Khalderas
+J'explore ce magnifique continent et en recense les merveilles.
+Je suis Vespu. C'est moi le chef de l'expédition.
+Très bien, en route pour la merveilleuse Harmonin.
+1155-Die Schönheit Khalderas
+Voir les jeunes aventuriers réveille mes anciens souvenirs.
+1157-Die Schönheit Khalderas
+Je préfère les forêts luxuriantes aux villes développées.
+Je suis Esope IV. Descendant d'Esope I.
+Faites attention sur la route. Il y a beaucoup de monstres dans la région.
+Bonjour et bienvenue a Harmonin !
+1162-Die Schönheit Khalderas
+J'ai du mal à cacher ma joie devant l'entrain des gens pour Harmonin.
+Je suis Ryan, historien de Harmonin. Posez-moi n'importe quelle question.
+Au revoir. N'oubliez pas les leçons du passé.
+Coucou vous ! Vous ne trouvez pas cet endroit magnifique ?
+Die Schönheit Khalderas
+Je suis si heureuse d'avoir emménagé à Harmonin. Pas vous ?
+Je suis Lasa, le fleuron de Harmonin.
+Vous semblez occupé. Revenez quand vous serez libre.
+Kann mir jemand einen Gefallen tun?
+Die Schönheit Khalderas
+Der blaue Ozean... weiße Strände... Ah, ich kann es kaum erwarten...
+Ich bin Melon, der Inhaber der Melonbäckerei.
+Hoffentlich kannst du mir helfen, wenn es dir wieder besser geht.
+Monster stole some of their raw materials. I'm sure someone is planned!
+Monster House last night that I broke in and stole the brewing machine .. \ n Festival I'm .. um
+I said to Augustine. Please help. I'm known for my brewing skills at the Madrigal. I can not leave the place too busy.
+I hope to change his mind. Materials that can change the fees and got rewarded. I need quickly.
+Venturer you! Please listen to my story!
+I do not get him and the gentlemen ...
+My name is Rose at the peak. Actually, a secret, but I mabeopsonyeoya ..
+Way to save the world like it!
+The world's ready to prove your prowess? How do I prove I'll tell you!
+Prove a lot of brave warriors jigireul hope ...
+Hello! Roy, the hero of the car! I am the warrior hero.
+Brave, you can prove me whenever you get him back!
+Protect yourself from a vampire!
+A vampire in the dark hours of activities do you usually careful ..
+Hello! To prevent the threat of vampires that is Van Halen!
+If at any time felt threatened me to get him back!
+Now challenge your knowledge!
+Leave a quiz with a lot of people off ..
+Hello! I have all the knowledge of the world is called Ethnikos.
+Knowledge to get me to get him back whenever you want!
+Madrigal's wisdom to find the best.
+Leave a quiz with a lot of people off ..
+Hello! I proceed to the quiz to help Ethnikos to tongyirago.
+Add to study
+Do you have your own beauty?
+Outward beauty and inner beauty in the world have very many people.
+Hello! I miss the most beautiful woman in Vietnam is chosen.
+Beauty are cultivated
+Vous souhaitez voyager ?
+Je peux vous faire voyager vers diverses destinations en un instant.
+Je suis le téléporteur de guilde, je peux vous faire voyager à l'autre bout de Madrigal en un éclair !
+Revenez me voir lorsque vous serait prêt à partir !
+Posséder une chambre de guilde est un rêve pour tout aventurier avide de puissance.
+Toutes les guildes aiment avoir un endroit pour se rassembler
+Je suis l'intendante des chambres de guilde. Souhaitez vous acheter la votre ?
+Pourquoi ne pas prendre un peux de repos dans votre chambre de guilde ?
+Merry Christmas!
+Can a white Christmas ...
+Hello. I said to Romeo.
+I wish you a Merry Christmas!
+Merry Christmas ~
+Can you feel the romantic Christmas ~
+Hello. I said to Juliet.
+I wish you a Merry Christmas!
+Voulez vous partager votre savoir avec d'autres joueurs ?
+If you want to be my mentor'll need a favor.
+Devenir un tuteur n'est pas si facile...
+Je suis Icinis. Je surveille tous vos fait et gestes, soyez digne de mon enseignement.
+Revenez me voir quand vous serez pret.
+Bienvenue dans votre chambre de guilde.
+Les chambres de guilde sont si confortables..
+Salut, je vend divers objets utilent, et je peux racheter vos objets sans tenir compte des taxes.
+Qu'attendez vous pour embellir cet endroit ?
+Vous souhaitez voyager ?
+Je peux vous faire voyager vers diverses destinations en un instant.
+Je suis le téléporteur de guilde, je peux vous faire voyager à l'autre bout de Madrigal en un éclair !
+Revenez me voir lorsque vous serait prêt à partir !
+Si vous souhaitez améliorer vos armes, je suis votre homme.
+Comme ça prend du temps d'obtenir une arme puissante... *soupir*
+Je me présente: Raydan, maître des enchantements. Grâce à moi vos armes deviendrons plus efficaces.
+Revenez quand vous voulez. Je developpe de nouvelles astuces pour améliorer les armes !
+Je ressent tout l'amour présent dans cette ville !
+L'amour peux s'exprimer de différentes manières ! Famille, amis, collégues.. Ne l'oubliez pas !
+Je suis Amor, la messagère de l'amour !
+Puissiez vous trouver l'amour !
+Bonne Année à vous !
+mafl_newbie_0
+mafl_newbie_3
+mafl_newbie_4
+mafl_newbie_9
+mafl_newbie_10
+mafl_bubble_0
+mafl_bubble_4
+mafl_bubble_9
+mafl_bubble_10
+mafl_leprechaun_0
+mafl_leprechaun_3
+mafl_leprechaun_4
+mafl_leprechaun_9
+mafl_leprechaun_10
+mafl_cupid02_0
+mafl_cupid02_4
+mafl_cupid02_9
+mafl_cupid02_10
+mafl_demian_event_0
+mafl_demian_event_4
+mafl_demian_event_9
+mafl_demian_event_10
+mafl_babario_0
+mafl_babario_4
+mafl_babario_9
+mafl_babario_10
+mafl_bullsfestival_0
+mafl_bullsfestival_4
+mafl_bullsfestival_9
+mafl_bullsfestival_10
+J'ai tellement de choses à faire... Je doit tout vérifier deux fois.
+Je suis un Rang-in, malin comme un humain et rapide comme un muran.
+Je suis Ruidan, mon métier c'est l'échange d'informations et d'argent.
+Bonne route à vous !
+Je suis Huntran, le huitième chef du village Elliun.
+Nous n'avons pas vu arriver d'humains depuis un siècle.
+Muran et humains vivent en paix dans ce village. Les sangs mêlés sont nommés Rang-in.
+Les humains sont si curieux !
+Le village Elliun a besoin d'aide. Y a-t-il des héros courageux pour nous sauver ?
+Le village Elliun est sans cesse attaqué par les lycans.
+Je suis la petite fille de Huntran. Je fais en sorte que mon grand-père n'oublie pas sa tête.
+Puissent les Esprits vous protéger.
+Le vrai pouvoir c'est de ne pas utiliser la magie quand on peut l'utiliser.
+La magie nous entoure, elle est partout, en vous, en moi, dans le cailloux là bas ou dans cet arbre...
+Mon frère jumeau se nomme Howran. C'est l'entraîneur des Arcanistes. Il est plus intelligent mais ma magie est plus puissante !
+Revenez me voir pour obtenir des objets magiques.
+Mes armes sont les meilleures au monde.
+Cette arme traversera armures et boucliers !
+Puissent les Esprits vous protéger.
+A bientôt.
+Si vous voulez montrer votre force aux autres, affrontez-les à l'arène.
+Seuls les combattants de premier ordre seront admis.
+Je me nomme Rarbadan et je suis responsable de l'arène.
+Les Esprits veillent sur le village Elliun.
+Ne vous en faites pas, le village est un endroit sûr.
+Hey tu veux te battre ? Haha, non, je plaisante.
+J'ai participé à la guerre contre les lycans il y a 15 ans.
+Faites attention à vous si vous sortez du village.
+La plaine de Kailun est peuplée de créatures fantastiques.
+Le chef perd la mémoire. Je m'inquiète pour lui.
+Je passe ma vie à patrouiller la plaine de Kailun.
+J'aide mes voisins, c'est ma joie.
+Votre armure est complètement rouillée. C'est le moment d'en changer.
+Mes frères et moi vendons armes, armures et protections. Les voisins nous appellent les frères Ukanura.
+Je vends les armures dans ce village. Mes frères et moi avons l'exclusivité du marché des armes et armures ici.
+Restez sur vos gardes, les monstres peuvent attaquer à tout moment !
+Mes boucliers sont plus solides que les écailles des dragons. Essayez si vous ne me croyez pas.
+En hiver, vous pouvez utiliser les boucliers comme luges. Attention aux cailloux quand même.
+Je suis Kuran, le cadet. Je vends l'équipement le plus important: le bouclier.
+Je sais que vous reviendrez!
+La plaine Kailun est magnifique vue du ciel.
+Rergantus n'est pas à mon goût. Je suis trop cool pour ça !
+Je suis Heiran, je travaille à la station de vol. Si vous voulez des histoires de pilote, offrez moi un verre.
+Quel temps parfait pour s'envoler !
+C'est l'odeur de ma cuisine qui vous attire ?
+La cuisine muranne est comestible pour les humains.
+Revenez quand vous aurez faim.
+Pensez à moi si vous avez un petit creux.
+Vous trouverez de tous dans les magasins murans.
+Toutes les femmes aiment Rergantus. C'est un vieux charmeur.
+Je suis Mauran, visitez mon échoppe. Regarder ne coûte rien.
+Revenez, je vous ferai un prix d'ami !
+Vous sentez la puissance des Chanoine rien qu'à me regarder, je parie.
+Vous pensez être fort mais vous n'utilisez que 10% de vos capacités.
+Je suis un Rang-in, un sang mêlé, je tire avantage des forces des 2 races dont je suis issu.
+La force doit servir à protéger les faibles.
+Je pourrais même vous faire un trou à l'âme. Personne n'échape a mes flèches.
+Vous voulez devenir plus fort ? Rentrez chez vous, vous serez toujours faible.
+Mon père était l'entraineur des Arbalétriers. Je fais de mon mieux pour honorer sa mémoire.
+Cet endroit est si étrange.
+Tout ce que vous pouvez sentir, voir ou toucher est fait à partir des éléments. Contrôlez les éléments et vous contrôlerez le monde.
+Si vous maîtrisez les éléments, vous êtes presque aussi fort que les dieux.
+Mawran, mon frère est le patron de la boutique d'objets magiques.
+Respirer est la chose la plus naturel au monde.
+Vous voulez améliorer vos armes ? Je sais absolument tout à ce sujet !
+Ne me parlez pas des frères Ukanura. Je ne les aime pas !
+Je suis Cedric, un spécialiste des enchantements d'armes. Il est important d'améliorer son équipement.
+Je sais que les frères Ukanura médisent de moi !
+Les joyaux de puissance sont aussi beau qu'utiles.
+Rien n'est plus beau que les joyaux. Dommage qu'ils soient si rares.
+Je suis Raia, experte en pierres précieuses. Je collectionne et sertis les joyaux.
+Je ne peux pas partir sans mes joyaux.
+Je suis charpentier. Avez-vous besoin de moi pour votre maison.
+Le studio est un endroit amusant pour faire la fête avec ses amis ou se reposer. M'inviter dans votre studio ? Non, je suis trop timide pour accepter.
+Elliun dispose des meilleurs matériaux de construction. Quel genre de maison voulez-vous ?
+Je n'arrive pas à parler aux gens. Je veux juste rentrer chez moi.
+Vous là-bas ! Toujours pas de maison d eguilde ? Hahahahaha !
+Pourquoi ne pas acheter une maison de guilde pour frimer un peu ?
+Moi, grassouillette ? Dites-le franchement, vous me trouvez grosse !
+La maison de guilde est ouverte aux membres de votre guilde 24 heures sur 24.
+Ne jetez pas les cartes de bas niveau. Apportez les moi !
+Ma soeur Noémie est esthéticienne. Vous ne nous trouvez pas mignonnes ?
+Je suis Lise, la maîtresse des cartes. Je peux essayer de transformer dix cartes de bas niveau en une carte de niveau supérieur.
+Mais où vous courrez comme ça ?
+Le soin de la peau est très important.
+[Institut de Beauté] Noémie - Intro
+[Institut de Beauté] Noémie - Présentation
+[Institut de Beauté] Noémie - Au revoir
+Votre coiffure n'est plus à la mode depuis 150 ans. Venez vous faire couper les cheveux !
+[Salon de Coiffure] Edouard - Intro
+[Salon de Coiffure] Edouard - Présentation
+[Salon de Coiffure] Edouard - Au revoir
+Je ne vends que les meilleurs marchandises.
+Où je les trouve ? Vous savez à qui vous parlez ?
+Je suis Hugo. Je vous échangerai les jetons rouges de la guerre de guilde contre de l'équipement.
+Revenez vite.
+[Collecteur de Coupons Légendaires] Romina - Discours
+[Collecteur de Coupons Légendaires] Romina - Intro
+[Collecteur de Coupons Légendaires] Romina - Présentation
+[Collecteur de Coupons Légendaires] Romina - Au revoir
+Cherchez-vous un familier, un compagnon d'aventure.
+Parfois Rergantus me regarde en rougissant...
+Les murans sont des dresseurs exceptionnels... et je suis la meilleure !
+Comme il est dur de voyager seul.
+Haha. Vous montrez votre vrai tempérament
+Vous ressentez l'énergie qui se dégage de moi ? Je peux à peine rester immobile.
+Tous les membres de ma famille étaient hyperactifs.
+Avancez vous prudamment en territoire ennemi.
+Notre destinée est décidée par Rhisis.
+Le pouvoir réel n'est pas de triompher. La force sert à protéger les gens, pas à les tuer.
+Mes ancêtres sont arrivés ici avec Harmonin.
+Parfois, vous pouvez changer les autres avec votre bonté, sans combattre.
+Etudier est la seule façon de devenir plus puissant.
+Ma vrai puissance vous ferait perdre la raison.
+Regarde-moi, est-ce par mon apparence que tu peux me juger ? Eh bien tu ne le dois pas car la magie est mon alliée.
+Ce sentiment est effrayant. Imaginez que vous soyez assez puissant pour contrôler le monde...
+Les Sylphides se déplacent sans bruit dans les ténèbres.
+En devenant plus puissant, vous deviendrez isolé. Vous verrez, on s'habitue aux ténèbres.
+Mes parents ont été tués par les Lycans. Les murans m'ont élevé comme l'un des leurs.
+Le vent et les ombres sont les amis du Sylphide. Apprenez à les utiliser.
+Les Templiers doivent faire preuve de courage, de détermination et d'abnégation.
+Le courage d'être aux premières lignes ! La détermination de ne jamais faiblir ! Pouvoir tout sacrifier pour protéger les faibles !
+Je descends d'une lignée de Chevaliers. La sagesse et l'expérience de mes ancêtres sont ma force.
+Les gens doivent savoir qu'ils peuvent compter sur vous.
+pet_seltpiyo_0
+pet_seltpiyo_4
+pet_seltpiyo_9
+pet_seltpiyo_10
+pet_seltpudi_0
+pet_seltpudi_4
+pet_seltpudi_9
+pet_seltpudi_10
+Les muran connaisses des moyens d'accélerer votre progression.
+Seuls les plus faibles d'entres vous pourront bénéficier de mon aide.
+J'aide les plus jeunes aventuriers à acquérir de la force.
+Les humains sont tous les mêmes...
+Pour la lumière !
+J'ai toujours veillé sur les madrigaliens.
+Je suis Waziraphale, l'envoyée de Bubble.
+Merci, j'espère que vous m'aiderez la prochaine fois.
+Pour les ténèbres !
+J'ai toujours eu des vues sur les madrigaliens.
+Je suis Rambrant, l'envoyé de Shade.
+Merci, j'espère que vous m'aiderez la prochaine fois.
+masa_roa_0
+masa_roa_4
+masa_roa_9
+masa_roa_10
+maew_troy_0
+maew_troy_4
+maew_troy_9
+maew_troy_10
+mafl_guildhousesale_0
+mafl_guildhousesale_4
+mafl_guildhousesale_9
+mafl_guildhousesale_10
+mafl_romero_0
+mafl_romero_4
+mafl_romero_9
+mafl_romero_10
+mafl_frankenstein_0
+mafl_frankenstein_4
+mafl_frankenstein_9
+mafl_frankenstein_10
+mafl_brooks_0
+mafl_brooks_4
+mafl_brooks_9
+mafl_brooks_10
+Je vais tester vos talents.
+Vous avez du potentiel. Il faut croire en vous.
+Vous atteindrez des sommets.
+Bonne chance !
+mafl_chance_0
+mafl_chance_4
+mafl_chance_9
+mafl_chance_10
+maew_rukas_0
+maew_rukas_4
+maew_rukas_9
+maew_rukas_10
+maew_pinanoco_0
+maew_pinanoco_4
+maew_pinanoco_9
+maew_pinanoco_10
+masa_jacklin_pott_0
+masa_jacklin_pott_4
+masa_jacklin_pott_9
+masa_jacklin_pott_10
+maew_raundas_0
+maew_raundas_4
+maew_raundas_9
+maew_raundas_10
+maew_idelruna_0
+maew_idelruna_4
+maew_idelruna_9
+maew_idelruna_10
+maew_gigaka_0
+maew_gigaka_4
+maew_gigaka_9
+maew_gigaka_10
+Vagabond ! Si tu veux devenir Mercenaire viens me parler !
+Les Mercenaires sont l'infanterie de Madrigal !
+Je suis l'instructeur des Mercenaires, j'enseigne aux Vagabonds l'art du combat à l'épée.
+A bientôt !!
+Vagabond ! Si tu veux devenir Acolyte viens me parler !
+Devenir Acolyte signifie de vouer sa vie à aider son prochain.
+Je suis l'instructeur des Acolytes, j'enseigne aux Vagabonds la sagesse de Rhisis.
+A bientôt !!
+Vagabond ! Si tu veux devenir Acrobate viens me parler !
+Observe la nouvelle technique d'archer !
+Je suis l'instructeur des Acrobates, j'enseigne aux Vagabonds la maîtrise de l'arc et du yo-yo.
+A bientôt !!
+Vagabond ! Si tu veux devenir Magicien viens me parler !
+Seul les plus intelligent peuvent devenir Magiciens.
+Je suis l'instructeur des Magiciens, j'enseigne aux Vagabonds la maîtrise des arcanes magiques.
+A bientôt !!
+Prépare tes plus puissant sort et en avant Magicien !
+La force des Magicien viens de leur intelligence supérieure !
+Je suis Ringda, Sunder et moi enseignons les voies de la magie aux Vagabond.
+Que Rhisis éclaire ton chemin.
+Que Rhisis protège les aventuriers souhaitant devenir Magicien.
+Tu dois continuer à t'entraîner pour expier tes crimes !
+Je m'appelle Ria, je suis le Maître des Magiciens.
+Que la bénédiction de Rhisis t'accompagne.
+Que Rhisis protège les aventuriers souhaitant devenir Mercenaire.
+Tu dois continuer à t'entraîner pour expier tes crimes !
+Je m'appelle Ruks, je suis le Maître des Mercenaires.
+Que la bénédiction de Rhisis t'accompagne.
+Que Rhisis protège les aventuriers souhaitant devenir Acrobate.
+Tu dois continuer à t'entraîner pour expier tes crimes !
+Je m'appelle Pire, je suis le Maître des Acrobates.
+Que la bénédiction de Rhisis t'accompagne.
+*Nous accueillons tous les nouveaux arrivants. Que voulez-vous vous inscrire?
+J'ai été enseignant au Laboratoire Magique. Jouons avec la magie!
+Soyons naturel de rêve!
+Avec l'élément Eau, Feu, Electricité et terrestres, ainsi nous pouvons détruire ou sauver le Madrigal!
+Il n'est pas facile d'être un héros.
+Magicien la force exceptionnelle et ne peut rien faire. Mais souvenez-vous, tout peut être obtenue par une étude diligente et la pratique.
+J'étais sergent entraîneur Madrigal, Ringda Eniwell. Voulez-vous être un magicien kulatih vrai!
+Pratique difficile d'être un magicien!
+Bienvenue à la sorcellerie du monde!
+Êtes-vous occupé?
+Magicien est le titre, qui a été acquise par l'apprentissage et de travailler pour elle, la fière ..!
+Je suis le chef de l'Chercheur Magic, Ria: Je suis sur le devoir d'enseigner à tous les éléments ici Magicien.
+Madrigal ciel entier sera rempli de la puissance magique.
+Bienvenue sur le Madrigal du monde pour tous les mercenaires!
+A cette époque, j'étais occupé.
+Sword et le navire est la meilleure arme dans un spectacle de courage Mercenaire. Donne-moi cette épée et la hache!
+Je suis le Maître Lux sera ajoutée en tant que Mercenaire keberanianmu
+Détruisez tous vos ennemis avec une épée tranchante!
+Chaque aventurier qui veut être Acrobat est requis pour me rencontrer!
+J'ai eu beaucoup de travail. S'il vous plaît en choisir un!
+L'électricité est l'âme, et le vent est ma force. La vitesse est la chose la plus importante!
+Je suis le chef d'Acrobat, Maître Pire!
+Éviter les attaques des cheveux lisses, et Move dès que les gouttes de pluie. N'oubliez pas que!
+Risis Chevalier! C'est une chance de prouver keberanianmu.
+Qu'est-ce que le courage par vous-même?
+Je suis le gardien du Colisée qui permettra de tester keberanianmu.
+Keberanianmu Comment puis-je améliorer?
+Au revoir! Vous pouvez à tout moment menantangku à prouver keberanianmu.
+Enfin, la longue attente de mise à jour 17 est maintenant ouverte!
+J'ai besoin d'aide. Voulez-vous m'aider?
+Tous les aventuriers Madrigal devrait venir à moi. Ne jetez pas la pierre à moi, ça fait mal!
+Je suis le directeur du Studio Kim dans Flyff. Pourquoi tu me vois comme ça ?
+J'espère que vous ete heureux de jouer a Flyff!
+Ces accessoires sont très drôles! Vous pouvez apprendre de Bongboyaju
+Et puis la cravate est en utilisant le fil
+Je suis l'Ange de l'amour. J'espère que vous trouver l'amour.
+Je vais toujours prier pour vous
+Hmm .. Que puis-je faire?
+Hmm .. Que puis-je faire?
+Je suis le Démon Devilz, je suis le plus fort.
+Hmm .. Que puis-je faire?
+Mon nom est Bongboyaju. Je vais vous faire des materiaux unique.
+Quelqu'un a t'il un accessoire pour la fabrication de matériel ?
+Mon nom est Bongboyaju. J'ai plein d'accessoires.
+Revenez si vous avez suffisamment de matériel.
